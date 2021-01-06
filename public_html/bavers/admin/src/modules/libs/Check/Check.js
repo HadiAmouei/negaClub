@@ -1,0 +1,1 @@
+export const CheckDate = {    set(id) {        $(`#${id}`).persianDatepicker();    }}

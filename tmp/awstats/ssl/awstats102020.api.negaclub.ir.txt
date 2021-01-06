@@ -1,0 +1,296 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home/negaclub/tmp/awstats/ssl/awstats.api.negaclub.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2688                
+POS_VISITOR 6375                
+POS_DAY 6683                
+POS_DOMAIN 3298                
+POS_LOGIN 3577                
+POS_ROBOT 3828                
+POS_WORMS 3991                
+POS_EMAILSENDER 4122                
+POS_EMAILRECEIVER 4265                
+POS_SESSION 7328                
+POS_SIDER 7536                
+POS_FILETYPES 4400                
+POS_DOWNLOADS 4516                
+POS_OS 4564                
+POS_BROWSER 4695                
+POS_SCREENSIZE 4850                
+POS_UNKNOWNREFERER 4924                
+POS_UNKNOWNREFERERBROWSER 5119                
+POS_ORIGIN 5309                
+POS_SEREFERRALS 5443                
+POS_PAGEREFS 5587                
+POS_SEARCHWORDS 5735                
+POS_KEYWORDS 5887                
+POS_MISC 2351                
+POS_ERRORS 5946                
+POS_CLUSTER 3433                
+POS_SIDER_404 6066                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201101013657 1 0 6670277526508
+FirstTime 20201003095914
+LastTime 20201031145230
+LastUpdate 20201101153411 1 0 0 0 0
+TotalVisits 119                 
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+AddToFavourites 0 26 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 8724 0 0 0
+1 3 3 4362 0 0 0
+2 1 1 1454 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 1 1 101 1 2 783
+6 0 0 0 0 0 0
+7 4 4 5816 0 0 0
+8 6 6 8724 0 0 0
+9 26 26 33784 0 3 270
+10 180 180 163698 9 22 7213
+11 191 191 183064 2 3 2546
+12 74 74 91973 1 1 709
+13 65 65 77729 0 0 0
+14 74 74 82029 0 1 90
+15 32 32 40784 0 5 450
+16 24 24 33543 1 1 706
+17 23 23 33442 1 1 682
+18 16 16 23289 0 0 0
+19 21 21 30584 0 0 0
+20 20 20 29080 0 0 0
+21 15 15 21810 0 0 0
+22 16 16 17068 0 3 270
+23 8 8 11632 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+fr 771 771 882568
+ir 27 27 16893
+gb 5 5 1699
+us 2 2 1429
+ca 1 1 101
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 3
+1234 10 10 9878 20201003111748
+username 1 1 959 20201003110710
+userdname 1 1 959 20201003110720
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+unknown 1 101 20201027052358 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 3 281 0 0
+Unknown 794 901522 0 0
+php 9 887 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win10 6 6
+Unknown 776 776
+macosx 21 21
+linuxandroid 2 2
+linux 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+Unknown 776 776
+chrome46.0.2490.80 1 1
+chrome85.0.4183.127 2 2
+firefox58.0 1 1
+chrome85.0.4183.121 26 26
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WhatsApp/2.2039.9_N 20201003220153
+NuSOAP/0.9.5_(1.123) 20201031145230
+NuSOAP/0.9.11_(1.123) 20201006101143
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WhatsApp/2.2039.9_N 20201003220153
+NuSOAP/0.9.5_(1.123) 20201031145230
+NuSOAP/0.9.11_(1.123) 20201006101143
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 806 806
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 10 6346
+301 1 706
+302 2 1364
+403 2 2456
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+213.108.240.92 770 770 882467 20201031145230
+5.237.118.12 27 27 16893 20201003220240
+82.145.42.105 5 5 1699 20201003153424
+204.18.192.201 2 2 1429 20201003224231
+192.95.30.65 1 1 101 20201027052312
+195.154.61.206 1 1 101 20201004160530
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20201003 327 327 244392 8
+20201004 1 1 101 1
+20201006 152 152 184096 2
+20201007 56 56 81599 5
+20201008 8 8 11632 5
+20201009 6 6 8724 5
+20201010 11 11 15994 8
+20201011 12 12 17448 4
+20201012 16 16 23264 5
+20201013 20 20 29080 8
+20201014 15 15 21910 8
+20201015 17 17 24718 7
+20201016 3 3 4362 3
+20201017 1 1 1454 1
+20201018 7 7 10178 5
+20201019 11 11 15994 1
+20201020 89 89 130556 5
+20201021 13 13 18902 6
+20201022 8 8 11632 6
+20201023 5 5 7270 4
+20201024 1 1 1454 1
+20201025 3 3 4362 2
+20201027 3 3 3009 3
+20201028 10 10 14565 8
+20201029 5 5 7270 4
+20201030 3 3 4362 2
+20201031 3 3 4362 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 16
+5mn-15mn 6
+2mn-5mn 2
+0s-30s 65
+30s-2mn 6
+15mn-30mn 7
+1h+ 17
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/WalletService 560 732778 113 113
+/CustomerService 230 168373 3 3
+/main.php 9 887 0 0
+/ 3 281 1 2
+//WalletService 2 180 0 0
+/wp-login 1 101 1 1
+//CustomerService 1 90 1 0
+END_SIDER

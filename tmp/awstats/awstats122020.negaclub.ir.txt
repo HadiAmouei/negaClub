@@ -1,0 +1,491 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202012 will be lost/reset.
+# Last config file used to build this data file was /home/negaclub/tmp/awstats/awstats.negaclub.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2008                
+POS_TIME 2677                
+POS_VISITOR 7862                
+POS_DAY 9182                
+POS_DOMAIN 3421                
+POS_LOGIN 3809                
+POS_ROBOT 3964                
+POS_WORMS 4344                
+POS_EMAILSENDER 4475                
+POS_EMAILRECEIVER 4618                
+POS_SESSION 9636                
+POS_SIDER 9833                
+POS_FILETYPES 4753                
+POS_DOWNLOADS 5072                
+POS_OS 5120                
+POS_BROWSER 5295                
+POS_SCREENSIZE 5586                
+POS_UNKNOWNREFERER 5660                
+POS_UNKNOWNREFERERBROWSER 5808                
+POS_ORIGIN 5924                
+POS_SEREFERRALS 6066                
+POS_PAGEREFS 6210                
+POS_SEARCHWORDS 6358                
+POS_KEYWORDS 6510                
+POS_MISC 2341                
+POS_ERRORS 6569                
+POS_CLUSTER 3665                
+POS_SIDER_404 6711                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210101023442 106 29909 10108412620852
+FirstTime 0
+LastTime 20201231162134
+LastUpdate 20210101153847 106 0 105 0 0
+TotalVisits 51                  
+TotalUnique 30                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 30                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 2 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 13 18 71880
+1 2 2 16709 0 0 0
+2 3 3 9432 0 2 2474
+3 2 2 8902 0 0 0
+4 0 0 0 0 0 0
+5 1 1 8368 0 3 3711
+6 0 0 0 1 2 1770
+7 3 3 25108 0 1 707
+8 5 6 49255 2 5 18265
+9 581 912 10975764 14 16 142623
+10 863 2036 31463415 196 202 305144
+11 1140 2125 28749190 496 511 1256094
+12 1991 3801 52071503 580 608 301430
+13 863 1862 29916269 136 137 154233
+14 1897 4025 59802596 108 114 306345
+15 1935 3576 41982092 143 147 1380090
+16 1281 2643 33236931 541 545 53360
+17 741 1519 22640979 22 22 706
+18 19 49 674295 3 4 21208
+19 1 1 8368 1 2 1670
+20 2 2 8898 2 8 495031
+21 0 0 0 3 3 3711
+22 2 2 16736 1 5 6185
+23 0 0 0 1 5 2977
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+ir 10916 21852 303990946
+hk 147 191 1357036
+gb 98 103 796114
+kr 60 195 3437112
+ru 51 96 213677
+jp 31 81 1215194
+ch 15 38 608143
+us 8 8 27731
+se 4 4 17796
+ca 1 1 531
+fr 1 1 530
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+Googlebot/ 48 1677912 20201231181403 0
+Googlebot\-Image/ 7 1227999 20201229204020 0
+bingpreview 4 2977 20201218230611 0
+bot[\s_+:,\.\;\/\\-] 3 109155 20201229133216 0
+Google\-Adwords\-Instant 1 7091 20201230182432 0
+bingbot/ 1 533 20201212064735 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 2944 24008062 0 0
+woff2 2831 104559484 0 0
+js 7258 31242765 0 0
+map 391 5337150 0 0
+png 978 27120017 0 0
+jpeg 18 2938758 0 0
+html 110 458502 0 0
+ttf 479 79245856 0 0
+woff 491 542764 0 0
+Unknown 7011 21654222 0 0
+jpg 40 14468218 0 0
+jfif 19 89012 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx10 2 2
+macosx 762 319
+Unknown 12 12
+linuxandroid 52 16
+win7 1 1
+linux 5 5
+win10 21735 10976
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome26.0.1410.65 1 1
+chrome84.0.4147.105 2 2
+firefox79.0 1 1
+chrome79.0.3945.88 1 1
+firefox47.0 1 1
+chrome87.0.4280.88 22545 11307
+Unknown 4 4
+firefox73.0 1 1
+firefox59.0 2 2
+chrome81.0.4044.129 1 1
+netscape5.0 8 8
+chrome77.0.3865.90 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0 20201228075830
+Go-http-client/1.1 20201229055456
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/1.1 20201229055456
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 654 683
+From1 0 0
+From2 0 0
+From3 0 0
+From4 10678 21887
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 62 75104
+301 11 7766
+302 2200 1167460
+403 3 3684
+206 8 168849
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 23
+/fckeditor/editor/filemanager/browser/default/frmupload.html 1 -
+/ads.txt 5 -
+/humans.txt 4 -
+/wp/xmlrpc.php 2 -
+/images/logo-default-128x61.png 3 http://negaclub.ir/
+/images/roy-henry-150x150.jpg 2 http://negaclub.ir/
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/browser/default/frmupload.html 1 -
+/FCKeditor/editor/filemanager/browser/default/frmupload.html 1 -
+/admin/customers 1 -
+/wp-login.php 6 -
+/about 1 -
+/.env 1 -
+/html/js/editor/fckeditor/editor/filemanager/browser/default/frmupload.html 1 -
+/ckfinder/ckfinder.html 1 -
+/CPANEL 1 -
+/administrator/fckeditor/editor/filemanager/browser/default/frmupload.html 1 -
+/robots.txt 21 -
+/images/blick-01.png 2 http://negaclub.ir/css/style.css
+/xmlrpc.php 2 -
+/wordpress/xmlrpc.php 2 -
+/main 1 -
+/login 1 -
+/cms/fckeditor/editor/filemanager/browser/default/frmupload.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 30
+5.237.115.106 3040 6840 106684639 20201226174410
+5.237.123.112 2531 5020 73421918 20201229180132
+5.238.63.74 2297 3336 31770576 20201227180348
+5.237.100.237 1008 2447 36547420 20201228161151
+5.238.124.175 853 1773 22518837 20201230172617
+5.237.187.148 602 899 9030984 20201231162134
+5.237.64.195 574 1526 23932350 20201228111725
+116.49.214.221 147 191 1357036 20201223121428
+145.239.133.204 97 102 792827 20201228155841
+185.205.204.177 51 96 213677 20201226122431
+175.209.197.253 51 165 2930948 20201228131241
+126.0.58.57 20 27 474100 20201227110748
+176.10.125.115 15 38 608143 20201222173126
+82.99.229.34 11 11 84222 20201229090215
+219.100.37.245 11 54 741094 20201223111408
+59.13.95.253 9 30 506164 20201223104650
+192.71.142.35 2 2 8898 20201229055456
+167.114.233.118 1 1 531 20201220121907
+62.100.211.164 1 1 3287 20201229090412
+192.71.225.127 1 1 530 20201218144226
+35.183.199.18 1 1 530 20201208024606
+34.209.91.79 1 1 530 20201211034034
+149.202.223.47 1 1 530 20201206200517
+134.209.214.202 1 1 527 20201220132140
+192.71.12.140 1 1 8368 20201223221111
+34.219.99.59 1 1 8341 20201226012004
+44.229.34.115 1 1 530 20201208024316
+64.246.178.34 1 1 8368 20201231071831
+216.145.11.94 1 1 533 20201206132010
+168.119.123.223 1 1 8372 20201227090355
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20201203 1 1 530 1
+20201206 2 2 1063 2
+20201208 2 2 1060 2
+20201211 1 1 530 1
+20201214 1 1 530 1
+20201218 1 1 530 1
+20201220 2 2 1058 2
+20201222 131 310 4441129 6
+20201223 851 1794 26450130 6
+20201224 1403 2992 49706606 1
+20201226 890 2155 29529597 4
+20201227 2321 3367 32278152 7
+20201228 1736 4246 64253765 9
+20201229 2534 5023 73441941 4
+20201230 853 1773 22518837 2
+20201231 603 900 9039352 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+2mn-5mn 2
+5mn-15mn 3
+0s-30s 26
+30mn-1h 5
+15mn-30mn 3
+1h+ 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 142
+/admin/fwTools/controller/modelGenerator/modelGenerator 916 144093 0 3
+/admin/src/dist/fonts/Vazir.woff2 485 18431940 0 0
+/admin/src/dist/fonts/Vazir-Light.woff2 480 23335680 0 0
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff 480 0 0 1
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff2 480 0 0 0
+/admin/src/dist/fonts/Vazir-Medium.woff2 480 24602880 1 0
+/admin/src/dist/fonts/Vazir-Bold.woff2 480 20090880 0 1
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.ttf 479 79245856 0 2
+/admin/fwTools/view/modelGenerator/modelGenerator 466 919884 0 0
+/admin/controllers/Persons/Customers/Customers 440 506398 1 4
+/admin/src/dist/fonts/Vazir-Black.woff2 424 17938592 0 1
+/admin/controllers/Products/Products/ProductsName/ProductsName 417 973762 0 1
+/admin/fwTools/controller/formGenerator/formGenerator 371 11280 0 0
+/admin/fwTools/view/formGenerator/formGenerator 300 1685152 0 0
+/admin/controllers/Startups/StartupUsers/StartupUsers 285 581309 0 0
+/admin/controllers/Providers/Providers 272 2079274 0 2
+/admin/src/dist/css/persian-datepicker.min.css.map 224 53938 0 1
+/admin/controllers/Startups/Startups/Startups 223 1060279 0 1
+/admin/login 193 595521 12 1
+/admin/controllers/Persons/CustomerAddresses/CustomerAddresses 191 934951 0 0
+/admin/src/dist/js/adminlte.js.map 167 5283212 0 0
+/admin/controllers/Providers/ProviderBranches/ProviderBranches 164 1015157 0 0
+/admin/controllers/BaseTables/Locations/States/States 164 157640 0 0
+/admin/controllers/BaseTables/Locations/Cities/Cities 157 238806 0 0
+/admin/controllers/Products/ProductsInfo/ProductSubSubGroups/ProductSubSubGroups 137 117950 0 0
+/admin/addAgencies 7 49897 0 0
+/admin/addProductions 2 27082 0 0
+/admin/controllers/BaseTables/Info/SocialMedias/SocialMedias 30 54104 0 0
+/admin/Units 2 26600 0 0
+/admin/fwTools/view/QueryBuilder/QueryBuilder 96 76224 0 0
+/admin/controllers/Persons/Individuals/Individuals 114 213668 0 0
+/admin/controllers/BaseTables/Info/Banks/Banks 29 51198 0 0
+/admin/src/dist/fonts/Vazir-Black.woff 2 107000 0 0
+/admin/StartupUsers 9 117455 0 0
+/admin/formGenerator 36 380586 1 1
+/admin/CustomerAddresses 1 14073 0 0
+/admin/controller/PhotoStuffs 3 705 0 0
+/admin/controller/Persons 5 1135 0 0
+/admin/controllers/Products/ProductsInfo/Sizes/Sizes 64 132728 0 0
+/admin/controllers/Products/Galleries/GroupGalleries/GroupGalleries 17 15002 0 0
+/admin/controllers/BaseTables/Info/Educations/Educations 16 32621 0 0
+/admin/controller/Colors 1 227 0 0
+/admin/addProductGroups 3 39909 0 0
+/admin/addMaterials 1 12541 0 0
+/admin/addSizes 7 94766 0 0
+/admin/addGalleryProductName 2 28193 0 0
+/admin/controllers/Products/Galleries/PhotoStuffs/PhotoStuffs 3 4521 0 0
+/admin/controllers/BaseTables/Parsas/Parsas 3 5435 0 0
+/admin/ProductSubGroups 2 26391 0 0
+/admin/ 31 288348 4 0
+/admin/controllers/BaseTables/Locations/Districts/Districts 128 124877 0 0
+/admin/controllers/Agencies/Agencies 25 59193 0 0
+/admin/viewColors 1 13196 0 0
+/admin/BankAccounts 5 70105 0 0
+/admin/Providers 10 131959 0 0
+/admin/controller/Assress 18 4230 0 0
+/admin/controllers/BaseTables/Info/Jobs/Jobs 42 247688 0 0
+/admin/addProviderBranches 17 235280 0 0
+/admin/addPhotoMarks 1 14122 0 0
+/admin/controllers/Products/ProductsInfo/ProductGroups/ProductGroups 76 131696 0 0
+/admin/ProviderBranches 3 40402 0 0
+/admin/src/dist/fonts/Vazir-Bold.woff 3 158028 0 0
+/fonts/fl-bigmug-line.woff 2 43152 0 0
+/admin/controllers/Persons/Levels/Levels 53 128177 0 0
+/admin/fwTools/view/DataSeeder/DataSeeder 9 3681 0 0
+/admin/Labels/addLabels 1 227 0 0
+/admin/src/images/States/ 50 21550 0 0
+/ 29 148604 24 24
+/admin/addBankAccounts 1 14120 0 0
+/admin/addProviders 20 271251 0 0
+/admin/fwTools/controller/DataSeeder/DataSeeder 9 3699 0 0
+/admin/controllers/productsInfo/ProductSubGroups/ProductSubGroups 2 0 0 0
+/admin/controllers/BankAccounts/BankAccounts 66 141994 1 0
+/fonts/materialdesignicons-webfont.woff2 2 159512 0 0
+/admin/controllers/BaseTables/Locations/Ranges/Ranges 67 96731 0 0
+/admin/controllers/Products/Galleries/PhotoMarks/PhotoMarks 18 38088 0 0
+/admin/addProductsName 123 1680636 1 0
+/admin/States 1 11647 0 0
+/admin/PhotoMarks 1 14124 0 0
+/admin/controllers/Products/Galleries/GallerySubGroups/GallerySubGroups 12 26270 0 0
+/admin/controllers/BaseTables/Info/BankCards/BankCards 14 28079 0 0
+/admin/controllers/Products/ProductsInfo/Units/Units 44 83508 0 1
+/admin/QueryBuilder 1 12791 0 0
+/admin/conf/Activate 30 630 0 0
+/admin/ProductGroups 2 26667 0 0
+/admin/addJobs 9 106400 0 0
+/admin/customers 2 7018 0 0
+/admin/addCustomers 15 189268 0 0
+/admin/Contracts 4 30859 3 0
+/admin/addColors 11 131891 0 0
+/admin/addCities 5 70354 0 0
+/admin/controllers/Products/Galleries/GallerySubSubGroups/GallerySubSubGroups 11 24473 0 0
+/admin/controllers/Products/ProductsInfo/Productions/Productions 28 57501 0 0
+/admin/addRanges 2 28144 0 0
+/admin/Customers 4 46829 3 1
+/admin/controllers/BaseTables/States/States 4 4081 0 0
+/admin/addCustomerAddresses 20 263454 0 0
+/admin/controllers/BaseTables/Info/ContractTypes/ContractTypes 15 31095 0 0
+/admin/addProviderToStartup 5 73179 0 0
+/admin/controllers/BaseTables/Locations/Countries/Countries 38 71078 0 0
+/admin/Colors 1 13197 0 0
+/admin/addStartups 43 504384 0 0
+/admin/src/images/Customers/customer_image1608801423.jfif 5 43148 0 0
+/admin/ProductSubSubGroups 3 39878 0 0
+/admin/addIndividuals 1 14121 0 0
+/admin/index 108 1252244 0 2
+/admin/Individuals 7 86994 0 0
+/admin/addDistricts 3 39962 0 0
+/admin/controllers/BaseTables/Info/Castes/Castes 46 304232 0 0
+/admin/addProductSubSubGroups 1 13540 0 0
+/admin/controllers/BaseTables/Info/WorkGroups/WorkGroups 13 36545 0 1
+/admin/controllers/Products/ProductsInfo/ProductSubGroups/ProductSubGroups 113 117445 0 1
+/admin/Parsas 1 12793 0 0
+/admin/modules/Pagination/Pagination 1 1140 0 0
+/admin/src/images/Providers/provider_image1609238216.jfif 11 39312 0 0
+/admin/controller/Customers 2 478 0 0
+/admin/addBrands 1 12539 0 0
+/admin/src/dist/fonts/Vazir-Medium.woff 2 126624 0 0
+/admin/editStartupUsers 1 11823 0 0
+/admin/controllers/ProviderToStartup/ProviderToStartup 58 172634 0 1
+/cpanel 5 66317 0 1
+/admin/src/images/Customers/customer_image1609395888.jfif 3 6552 0 0
+/admin/controllers/Products/ProductsInfo/Colors/Colors 98 181768 0 0
+/admin/addSocialMedias 1 13535 0 0
+/admin/modelGenerator 45 595847 0 0
+/admin/BankCards 2 26228 0 0
+/admin/fwTools/controller/QueryBuilder/QueryBuilder 96 25140 0 0
+/admin/src/controllers/Persons/Customers/Customers 3 753 0 0
+/admin/addStartupUsers 37 439263 0 0
+/admin/addLevels 1 14071 0 0
+/admin/controllers/Products/ProductsInfo/Materials/Materials 73 61274 0 0
+/admin/controllers/Products/ProductsInfo/Brands/Brands 47 95545 0 0
+/admin/controllers/Supervisions/Supervisions 8 15879 0 0
+/admin/controller/SubGroupGalleries 1 227 0 0
+/admin/src/dist/fonts/Vazir-Light.woff 1 59988 0 0
+/admin/controllers/Providers/Acceptorpictures/Acceptorpictures 30 67890 0 0
+/admin/controllers/Products/Galleries/GalleryProductName/GalleryProductName 10 22250 0 0
+/admin/Levels 1 12547 0 0
+/admin/controllers/Products/Galleries/GalleryGroups/GalleryGroups 18 36495 0 0
+/admin/src/dist/fonts/Vazir.woff 1 47972 0 0
+/admin/Startups 5 60616 0 0
+/admin/ProductsName 5 67419 0 0
+END_SIDER

@@ -1,0 +1,498 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202011 will be lost/reset.
+# Last config file used to build this data file was /home/negaclub/tmp/awstats/awstats.negaclub.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2008                
+POS_TIME 2682                
+POS_VISITOR 8533                
+POS_DAY 9921                
+POS_DOMAIN 3420                
+POS_LOGIN 3768                
+POS_ROBOT 3923                
+POS_WORMS 4246                
+POS_EMAILSENDER 4377                
+POS_EMAILRECEIVER 4520                
+POS_SESSION 10622               
+POS_SIDER 10831               
+POS_FILETYPES 4655                
+POS_DOWNLOADS 4957                
+POS_OS 5005                
+POS_BROWSER 5190                
+POS_SCREENSIZE 5762                
+POS_UNKNOWNREFERER 5836                
+POS_UNKNOWNREFERERBROWSER 6204                
+POS_ORIGIN 6437                
+POS_SEREFERRALS 6579                
+POS_PAGEREFS 6723                
+POS_SEARCHWORDS 6902                
+POS_KEYWORDS 7054                
+POS_MISC 2346                
+POS_ERRORS 7113                
+POS_CLUSTER 3624                
+POS_SIDER_404 7258                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201201084412 3 439 16818227649651
+FirstTime 20201104093340
+LastTime 20201129065536
+LastUpdate 20201201154132 3 0 2 0 0
+TotalVisits 165                 
+TotalUnique 33                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 11 5785 1 3 2474
+1 21 46 584991 0 0 0
+2 10 10 5267 0 1 1237
+3 15 18 13221 0 1 1237
+4 7 7 3683 0 0 0
+5 5 5 2632 1 2 1664
+6 9 9 4740 0 0 0
+7 5 5 2635 1 2 1670
+8 15 16 50091 0 0 0
+9 1168 2302 37712849 23 29 30508
+10 2048 3993 61356677 65 70 256356
+11 1807 4044 60659563 2 7 2103
+12 1438 3639 60615273 3 5 4138
+13 677 1625 44244033 5 8 5654
+14 1858 4595 72634836 10 12 11260
+15 1185 2292 29676397 2 3 2474
+16 848 2225 37435541 30 31 7168
+17 867 2304 37235000 35 38 14317
+18 92 249 4083538 1 2 1237
+19 10 10 7368 19 19 23503
+20 5 5 2632 2 3 4054
+21 10 10 5273 2 3 2998
+22 9 9 4743 0 0 0
+23 5 5 4733 22 24 28074
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+ir 12009 27238 444300975
+us 55 119 1661971
+ca 22 25 120230
+jp 19 24 97186
+fr 9 9 2088
+ru 5 13 164051
+id 4 4 2105
+cz 1 1 1576
+al 1 1 1319
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Apache\-HttpClient/ 59 201740 20201110170726 0
+java 12 50748 20201109102457 0
+Googlebot/ 5 2147 20201130230435 0
+bingbot/ 4 2108 20201128165931 0
+bot[\s_+:,\.\;\/\\-] 2 3156 20201127202936 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+php 1 80 0 0
+html 236 341891 0 0
+view 1 391 0 0
+css 4205 40744664 0 0
+png 1714 39863031 0 0
+woff2 4111 152271980 0 0
+map 349 463239 0 0
+woff 678 0 0 0
+ttf 680 112477292 0 0
+Unknown 6065 48578697 0 0
+js 9390 51597549 0 0
+json 4 12687 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+linux 4 4
+win7 5 2
+linuxandroid 65 40
+win10 27163 11885
+macosx 6 3
+macosx10 1 1
+macosx8 1 1
+Unknown 186 186
+macosx6 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+firefox82.0 1 1
+chrome79.0.3945.79 4 1
+chrome36.0.1941.0 3 0
+chrome86.0.4240.193 7511 3178
+chrome83.0.4103.61 1 1
+netscape5.0 153 153
+chrome86.0.4240.183 13795 5593
+chrome86.0.4240.198 3357 1475
+chrome77.0.3865.90 2 2
+chrome86.0.4240.185 2 2
+chrome26.0.1410.65 1 1
+opera54.0.2952.51 1 1
+firefox58.0 1 1
+firefox59.0 1 1
+chrome76.0.3809.71 8 2
+chrome76.0.3809.132 4 4
+Unknown 29 29
+chrome79.0.3945.88 1 1
+mozilla 4 4
+firefox62.0 1 1
+opera54.0.2952.64 1 1
+chrome88.0.4240.193 3 3
+chrome86.0.4240.111 2547 1667
+safari5.1 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+python-requests/2.23.0 20201109183116
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20201122132612
+PostmanRuntime/7.26.7 20201110173754
+Cpanel-HTTP-Client/1.0 20201122132421
+python-requests/2.24.0 20201122212212
+Mozilla/5.0 20201129065536
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+PostmanRuntime/7.26.7 20201110173754
+python-requests/2.23.0 20201109183116
+Cpanel-HTTP-Client/1.0 20201122132421
+python-requests/2.24.0 20201122212212
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 848 906
+From1 0 0
+From2 0 0
+From3 1 1
+From4 11276 26527
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://213.108.240.92:2086 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+206 1 4229
+403 2 2456
+404 94 116278
+500 31 0
+302 22 14322
+301 7 4942
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 28
+/wp1/wp-includes/wlwmanifest.xml 3 -
+/web/wp-includes/wlwmanifest.xml 3 -
+/wp/wp-includes/wlwmanifest.xml 3 -
+/cpanerl 1 -
+/media/wp-includes/wlwmanifest.xml 2 -
+/admjin/src/controllers/WebServiceApp/WebServiceApp.php 1 -
+/blog/wp-includes/wlwmanifest.xml 3 -
+/robots.txt 15 -
+/2020/wp-includes/wlwmanifest.xml 1 -
+/website/wp-includes/wlwmanifest.xml 3 -
+/wordpress/wp-includes/wlwmanifest.xml 3 -
+/BanksAjax 8 http://negaclub.ir/admin/addBanks
+/admints 1 -
+/site/wp-includes/wlwmanifest.xml 3 -
+/wp2/wp-includes/wlwmanifest.xml 3 -
+/2018/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/wlwmanifest.xml 3 -
+/WebServiceApp/API/_controller 1 -
+/cms/wp-includes/wlwmanifest.xml 3 -
+/shop/wp-includes/wlwmanifest.xml 3 -
+/xmlrpc.php 3 -
+/sito/wp-includes/wlwmanifest.xml 3 -
+/test/wp-includes/wlwmanifest.xml 3 -
+/wp-login.php 11 -
+/2019/wp-includes/wlwmanifest.xml 3 -
+/news/wp-includes/wlwmanifest.xml 3 -
+/Clients 2 http://negaclub.ir/admin/addBanks
+/admint/login 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+5.237.77.33 6323 15360 268922864 20201118173804
+5.237.65.178 2433 5743 89843208 20201109130413
+5.237.95.91 2031 4582 76060531 20201105145229
+5.237.120.138 1040 1322 8424265 20201104111933
+217.218.21.242 144 144 75846 20201129065536
+161.35.72.196 43 98 1650175 20201111110609
+219.100.37.236 18 22 79921 20201112100525
+23.233.166.87 13 16 105163 20201107123458
+5.238.136.90 13 38 580775 20201116010404
+5.238.147.215 13 34 371978 20201128135843
+82.99.229.34 11 14 8244 20201125072440
+142.93.117.84 8 8 11559 20201122212212
+213.108.240.92 8 8 512 20201122132421
+117.103.168.219 4 4 2105 20201127024110
+185.166.84.78 4 12 163524 20201128135025
+205.169.39.217 2 5 3398 20201108034348
+158.69.254.105 1 1 3508 20201128034327
+216.145.14.142 1 1 527 20201112034700
+5.238.77.241 1 1 13264 20201121132951
+70.42.131.189 1 4 2974 20201122132825
+104.248.236.204 1 1 524 20201112163610
+64.78.149.164 1 1 87 20201122132612
+62.4.14.206 1 1 1576 20201123153250
+34.209.232.166 1 1 87 20201122132613
+205.169.39.21 1 4 2974 20201122132853
+37.9.13.154 1 1 527 20201125043956
+89.187.168.148 1 1 1576 20201113115350
+3.128.26.105 1 1 87 20201122132612
+52.28.236.88 1 1 87 20201122132612
+34.214.126.135 1 1 527 20201125225542
+219.100.37.233 1 2 17265 20201109092148
+3.236.242.232 1 1 524 20201109183116
+31.171.152.134 1 1 1319 20201110104347
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20201104 1667 2547 24422248 3
+20201105 1404 3357 60062548 1
+20201107 309 442 4185614 3
+20201108 1644 4385 73707929 3
+20201109 2241 5619 90406363 5
+20201110 1712 4395 89671111 2
+20201111 442 746 7981541 6
+20201112 670 1656 24903470 4
+20201113 1 1 1576 1
+20201114 531 982 11638964 4
+20201115 362 898 27684511 3
+20201116 269 547 7492259 4
+20201117 246 603 8996925 6
+20201118 447 1038 14553236 11
+20201119 24 27 18224 11
+20201120 15 15 7905 9
+20201121 20 20 23277 12
+20201122 35 41 17875 17
+20201123 18 18 10535 12
+20201124 14 14 7378 11
+20201125 15 18 10352 14
+20201126 3 3 1581 3
+20201127 10 10 5273 9
+20201128 25 51 540276 10
+20201129 1 1 530 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 9
+0s-30s 101
+30s-2mn 2
+15mn-30mn 9
+30mn-1h 15
+1h+ 27
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 112
+/admin/controllers/BaseTable/Clients/Clients 995 9669654 3 7
+/admin/src/dist/fonts/Vazir-Black.woff2 700 29615600 1 0
+/admin/src/dist/fonts/Vazir.woff2 699 26564796 0 1
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.ttf 680 112477292 0 0
+/admin/src/dist/fonts/Vazir-Medium.woff2 678 34751568 0 0
+/admin/src/dist/fonts/Vazir-Bold.woff2 678 28378368 0 0
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff 678 0 0 0
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff2 678 0 0 0
+/admin/src/dist/fonts/Vazir-Light.woff2 678 32961648 0 0
+/admin/controllers/Customers/Providers/Providers 552 5146738 1 5
+/admin/controllers/BaseTable/Banks/Banks 489 14282200 4 7
+/admin/fwTools/controller/modelGenerator/modelGenerator 457 24228 0 0
+/admin/controllers/BaseTable/CustomerAccount/CustomerAccount 384 644878 0 2
+/admin/addClients 348 5101474 1 0
+/admin/src/dist/css/persian-datepicker.min.css.map 337 83607 0 1
+/admin/controllers/BaseTable/Individuals/Individuals 321 1091475 1 3
+/admin/fwTools/view/modelGenerator/modelGenerator 255 501604 0 0
+/admin/login 206 743212 9 1
+/ 184 107035 121 120
+/admin/fwTools/controller/formGenerator/formGenerator 182 2820 0 0
+/admin/fwTools/view/formGenerator/formGenerator 170 901665 0 0
+/admin/controllers/BaseTables/Individuals/Individuals 118 0 0 1
+/admin/index 114 1276223 2 1
+/admin/controllers/BaseTable/States/States 110 147589 0 1
+/admin/addProviders 110 1214164 1 0
+/admin/Banks 65 515699 0 0
+/admin/controllers/BaseTable/Districts/Districts 14 30732 0 1
+/.well-known/acme-challenge/-XQNDp3OKRBc6mOuS4nXiYL_c1PKnMx1rsT3_KEg4TE 4 348 4 4
+/admin/controllers/BaseTable/Cities/Cities 49 114581 0 0
+/admin/Startups 1 11524 0 0
+/admin/Contracts 15 108005 6 0
+/admin/controllers/Cloud/Startups/Startups 10 38593 0 0
+/admin/controllers/BaseTable/ContractTypes/ContractTypes 42 77522 0 0
+/admin/controllers/BaseTable/Contracts/Contracts 29 32792 0 0
+/admin/controllers/WebServiceApp/WebServiceApp.php 1 80 0 0
+/admin/addCustomerAccount 1 11763 0 0
+/admin/controllers/BaseTable/Ranges/Ranges 46 75999 0 1
+/admin/controllers/BaseTable/Countries/Countries 20 27297 0 0
+/admin/API/WebServiceApp/_controller 1 235 0 0
+/cpanel 6 79583 1 1
+/admin/addCities 1 11703 0 0
+/admin/Guilds 7 78727 0 0
+/admin/Providers 102 1089231 1 0
+/admin/controllers/BaseTable/Educations/Educations 31 49593 0 0
+/admin/src/controllers/WebServiceApp/WebServiceApp 2 470 0 0
+/admin/Cities 1 11702 0 0
+/admin/ 50 233956 3 3
+/admin/Clients 50 554350 1 0
+/.well-known/acme-challenge/HJSKVPX752T6T9KN4TYPO064OJNOT1VW 1 64 0 0
+/admin/editCustomerAccount 52 613551 0 0
+/admin/Castes 3 35129 0 0
+/admin/modelGenerator 17 188563 1 0
+/admin/addGroupWorks 4 45471 0 0
+/admin/formGenerator 1 11509 0 0
+/admin/BaseTables/clients/register 1 227 0 0
+/admin/ContractTypes 7 81327 0 0
+/admin/WebServiceApp/API/_controlle 1 14 0 0
+/.well-known/acme-challenge/CQ_9Y_Z8ZLXQ84JIBMGIU2CC09L_XU3- 1 64 0 0
+/admin/Jobs 9 104400 0 0
+/admin/controllers/BaseTables/Cities/Cities 28 172 0 1
+/admin/controllers/BaseTable/Providers/Providers 17 0 0 0
+/admin/controllers/BaseTable/Castes/Castes 68 749803 0 0
+/admin/controllers/BaseTable/GroupWorks/GroupWorks 44 59088 0 0
+/admin/addStates 20 230281 0 0
+/admin/WebServiceApp/_controller 1 235 0 0
+/.well-known/acme-challenge/QDMI-LMUP4C_4_CBDBFAR-NR5V3YWGWO 1 64 1 0
+/admin/controllers/BaseTable/BankCards/BankCards 27 49160 0 0
+/admin/addGuilds 2 22377 0 0
+/admin/src/controllers/ 1 487 0 0
+/admin/addRanges 4 43802 0 0
+/admin/viewProviders 1 11822 0 0
+/admin/addCustomers 9 47716 0 0
+/admin/controllers/BaseTable/Guilds/Guilds 27 37667 0 0
+/admin/addBankCards 2 15446 0 0
+/admin/Clients.view 1 391 0 0
+/admin/customers 1 3509 0 0
+/admin/controllers/BaseTable/Jobs/Jobs 42 66398 0 0
+/admin/WebServiceApp/API/_controller 5 70 0 1
+/.well-known/acme-challenge/RS520WWLXGY1-SUOHQJAU8FA9J041PWD 1 64 0 1
+/admin/addIndividuals 22 104560 1 0
+/admin/conf/Activate 5 917 0 1
+/.well-known/acme-challenge/F4WTRC7RFG659LYG4YPCG88XK-4K1RCQ 1 64 0 0
+/admin/src/controllers/WebServiceApp/WebServiceApp/_controller 1 235 0 0
+/admin/WorkGroups 2 23422 0 0
+/admin/viewClients 6 70926 0 0
+/api/WebServiceApp/_controller 1 90 0 0
+/admin/controllers/BaseTable/Visitors/Visitors 2 3232 0 0
+/admin/controllers/Cloud/Customers/Customers/Customers 54 108553 0 1
+/.well-known/acme-challenge/SH_Z0HKZVOL9Q_1VUKXZ0JJL5HIU7REN 1 64 0 0
+/admin/Customers 2 76769 0 0
+/admin/addBanks 93 1035493 0 0
+/admin/Individuals 17 197913 0 0
+/.well-known/acme-challenge/YN7A905OUUEMP-NUMF8LYCYR3LSDKQJY 1 64 0 0
+/admin/addJobs 1 11694 0 0
+/admin/viewBanks 1 3509 0 0
+/admin/providers 4 14036 0 0
+/admin/controllers/BaseTable/Customers/Providers/Providers 18 0 0 0
+/admin/controllers/BaseTable/WorkGroups/WorkGroups 23 68395 1 0
+/admin/editBanks 1 3509 0 0
+/doc/doc.json 4 12687 0 0
+/admin/src/dist/js/adminlte.js.map 12 379632 1 0
+/admin/controllers/BaseTables/Infos/Castes/Castes 37 0 0 0
+/admin/addStartups 1 65279 0 0
+/admin/Countries 1 10595 0 0
+/admin/api/WebServiceApp/_controller 3 705 0 0
+/admin/lo 1 3509 0 0
+/admin/States 2 23395 0 0
+/admin/GroupWorks 11 115481 0 0
+/admin/CustomerAccount 42 495489 0 0
+/admin/src/controllers/WebServiceApp/ 1 413 0 0
+/admin/Ranges 5 54369 0 0
+/.well-known/acme-challenge/96EQUAY_HMZXQ6L2QHGFWYO7JMAHZ_KR 1 64 0 0
+END_SIDER

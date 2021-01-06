@@ -1,0 +1,742 @@
+# Webalizer V2.23-08 Incremental Data - 01/03/2021 15:31:21
+2021 1 3 15 31 21
+6700 6575 8 187 104 8 85279968 2811 155 0
+2 1063 1063 1 3
+10 7 554986 6 2 2
+2583 2508 29514578 1 1124 44
+4107 4060 55210404 2 1685 109
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 707 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+358 350 2177283 258
+466 464 4782700 204
+975 974 14700059 329
+788 782 11056885 285
+604 536 6088703 337
+1881 1879 21511858 747
+1196 1183 21825638 323
+219 219 867405 192
+211 187 2232345 135
+1 1 36385 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+6575
+0
+0
+0
+0
+0
+0
+0
+4
+100
+0
+9
+0
+0
+0
+0
+0
+0
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/admin/src/dist/js/pages/dashboard2.js
+0 92 0 267536 0 0
+/admin/src/dist/js/final_submit.js
+0 107 0 106251 0 0
+/admin/src/dist/fonts/Vazir.woff2
+0 97 0 3686388 0 0
+/admin/js/Products/ProductsInfo/ProductSubSubGroups/ProductSubSubGroups.view.addORedit.js
+0 1 38779680 204 0 0
+/admin/Colors
+0 6 38775184 87813 0 0
+/admin/addStates
+0 2 0 29274 0 0
+/admin/controllers/Persons/CustomerAddresses/CustomerAddresses
+0 27 0 80284 3 1
+/admin/Supervisions
+0 1 38775808 14643 0 0
+/admin/js/Products/ProductsInfo/Colors/Colors.view.addORedit.js
+0 12 0 1908 0 0
+/admin/src/images/Providers/provider_image1609671512.jpg
+0 3 0 152547 0 0
+/admin/controllers/BaseTables/Info/Banks/Banks
+0 13 0 29025 1 1
+/admin/controllers/BaseTables/Locations/Cities/Cities
+0 210 0 137148 6 3
+/admin/js/Products/ProductsInfo/Colors/Colors.view.delete.js
+0 1 0 159 0 0
+/admin/addDistricts
+0 1 38728800 14637 0 0
+/admin/js/Providers/Providers.view.addORedit.js
+0 7 0 1435 0 0
+/admin/controllers/Products/Galleries/GallerySubGroups/GallerySubGroups
+0 153 0 369931 13 11
+/admin/login
+0 32 0 105589 2 1
+/admin/Brands
+0 1 38780752 14524 0 0
+/admin/js/BaseTables/Info/Jobs/Jobs.view.addORedit.js
+0 4 38767264 812 0 0
+/admin/src/dist/fonts/Vazir-Medium.woff2
+0 98 0 5023088 0 0
+/admin/src/images/Banks/bank_logo1609591933.jfif
+0 3 38767696 19656 0 0
+/fonts/materialdesignicons-webfont.woff2
+0 2 38789600 159512 0 0
+/admin/src/dist/js/adminlte.js
+0 92 18446744073709551615 364780 0 0
+/admin/src/dist/js/demo.js
+0 92 0 166244 0 0
+/admin/controllers/BaseTables/Info/SocialMedias/SocialMedias
+0 7 0 17182 0 1
+/admin/controllers/Providers/Acceptorpictures/Acceptorpictures
+0 16 18446744073709551615 33968 0 1
+/admin/src/images/Providers/provider_image1609147520.jpeg
+0 3 0 514602 0 0
+/admin/js/BaseTables/Locations/Ranges/Ranges.view.addORedit.js
+0 22 0 5984 0 0
+/admin/src/dist/js/check.js
+0 92 18446744073709548440 532128 0 0
+/css/fonts.css
+0 3 140502280906064 61239 0 0
+/admin/src/dist/css/adminlte.min.css
+0 98 38739744 3480176 0 0
+/admin/viewColors
+0 1 38770000 14637 0 1
+/admin/src/images/States/
+0 37 0 15947 1 0
+/admin/addRanges
+0 3 0 43936 0 1
+/images/parallax-scene-05-100x101.png
+0 2 38788640 6138 0 0
+/admin/controllers/BaseTables/Info/BankCards/BankCards
+0 12 0 26871 0 0
+/admin/js/Products/ProductsInfo/Colors/Colors.view.view.js
+0 1 0 159 0 0
+/admin/src/images/ProductSubSubGroups/product_sub_sub_group_image1609667359.jpg
+0 2 38779984 526146 0 0
+/admin/src/plugins/font-awesome/css/font-awesome.min.css
+0 98 0 691390 0 0
+/admin/controllers/Products/ProductsInfo/Colors/Colors
+0 71 0 138848 3 4
+/admin/controller/PhotoStuffs
+0 2 38778112 478 0 0
+/admin/js/Providers/ProviderBranches/ProviderBranches.view.addORedit.js
+0 63 0 43257 0 0
+/admin/controllers/BaseTables/Locations/Countries/Countries
+0 44 0 99182 4 2
+/admin/controllers/Products/ProductsInfo/ProductSubSubGroups/ProductSubSubGroups
+0 18 38774176 41540 0 1
+/admin/States
+0 1 0 14666 0 1
+/admin/controllers/Products/ProductsInfo/ProductGroups/ProductGroups
+0 13 0 28614 1 0
+/admin/src/images/GalleryGroups/gallery_group_image1609661519.jfif
+0 4 0 13104 0 0
+/admin/addGallerySubGroups
+0 7 38778800 101940 0 4
+/admin/controllers/Providers/ProviderBranches/ProviderBranches
+0 265 0 459139 13 17
+/admin/src/images/SocialMedias/social_media_icon1609155533.jpeg
+0 2 0 343068 0 0
+/images/bg-pattern-dark.jpg
+0 2 38789376 126798 0 0
+/admin/src/images/ProductSubGroups/product_sub_group_icon1609595925.jpg
+0 22 0 220484 0 0
+/admin/Acceptorpictures
+0 1 38785632 14526 0 0
+/admin/controllers/Products/ProductsInfo/Productions/Productions
+0 8 0 18612 1 1
+/admin/src/images/Customers/customer_image1609592371.jfif
+0 6 0 39312 0 0
+/admin/index
+0 16 0 233682 0 2
+/admin/js/Providers/Providers.view.add
+0 7 0 1561 0 0
+/admin/controllers/BaseTables/Locations/Districts/Districts
+0 227 0 162782 8 10
+/admin/controllers/Products/ProductsInfo/Brands/Brands
+0 17 38770400 39045 2 1
+/admin/src/dist/fonts/Vazir-Bold.woff2
+0 97 0 4060032 0 0
+/admin/addAgencies
+0 5 0 73211 1 0
+/admin/addIndividuals
+0 23 0 336631 1 4
+/admin/src/images/ProductSubGroups/product_sub_group_image1609077165.jpg
+0 21 38776464 210462 0 0
+/admin/src/dist/css/custom-style.css
+0 97 0 256953 0 0
+/admin/src/dist/js/Shortcuts/Shortcuts.js
+0 92 0 15180 0 0
+/admin/controllers/Products/Galleries/GallerySubSubGroups/GallerySubSubGroups
+0 29 38775408 68428 5 5
+/fonts/fl-bigmug-line.woff
+0 2 38789024 43152 0 0
+/admin/src/images/PhotoMarks/photo_marks_image1609237405.jpg
+0 3 0 177444 0 0
+/admin/Individuals
+0 1 38768816 14634 0 1
+/admin/controllers/BaseTables/Info/Educations/Educations
+0 9 0 18087 0 0
+/admin/js/Products/ProductsInfo/Productions/Productions.view.addORedit.js
+0 2 38773424 410 0 0
+/admin/src/images/GallerySubGroups/gallery_sub_groups_image1609653373.jpg
+0 6 38775008 970020 0 0
+/admin/src/images/Providers/provider_image1609671473.jpg
+0 3 0 177444 0 0
+/admin/js/Startups/StartupUsers/StartupUsers.view.addORedit.js
+0 6 0 3588 0 0
+/admin/js/ProviderToStartup/ProviderToStartup.view.addORedit.js
+0 85 0 47422 0 0
+/js/script.js
+0 3 0 50960 0 0
+/admin/addProviderBranches
+0 15 38778928 218179 1 3
+/admin/src/images/Brands/brand_logo1609661306.jfif
+0 2 38777216 13104 0 0
+/admin/controllers/BaseTables/Info/WorkGroups/WorkGroups
+0 18 0 51660 3 1
+/admin/src/dist/js/activation.js
+0 83 0 97027 0 0
+/admin/src/images/Brands/brand_logo1609078751.jpg
+0 1 38776640 50849 0 0
+/admin/Labels/addLabels
+0 2 0 478 0 0
+/admin/src/images/PhotoMarks/photo_marks_image1609661408.jfif
+0 3 0 19656 0 0
+/admin/
+0 3 38787680 43574 1 0
+/admin/src/dist/js/persian-date.min.js
+0 92 0 936376 0 0
+/admin/src/dist/js/persian-datepicker.min.js
+0 92 0 1434188 0 0
+/admin/controllers/Persons/Individuals/Individuals
+0 218 0 233754 8 9
+/admin/controllers/Persons/Customers/Customers
+0 52 0 110945 3 2
+/admin/controllers/BaseTables/Locations/States/States
+0 162 0 125712 7 7
+/images/parallax-scene-06-240x243.png
+0 2 38788768 20116 0 0
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.ttf
+0 98 0 16223704 0 0
+/admin/controllers/Providers/Providers
+0 45 0 190377 4 0
+/admin/GallerySubGroups
+0 3 38775696 43764 1 1
+/admin/js/Persons/Customers/Customers.view.addORedit.js
+0 17 0 2652 0 0
+/admin/src/images/SocialMedias/social_media_icon1609395627.jpg
+0 2 0 95062 0 0
+/admin/src/images/ProductSubSubGroups/product_sub_sub_group_icon1609077843.jpg
+0 5 38777360 295740 0 0
+/admin/Customers
+0 1 38787312 14557 0 0
+/admin/src/images/Brands/brand_image1609661306.jfif
+0 2 38776784 13104 0 0
+/css/style.css
+0 3 0 252075 0 0
+/admin/controllers/Persons/Levels/Levels
+0 7 3330746390740467712 16494 2 0
+/admin/controllers/Supervisions/Supervisions
+0 20 86470190848945717 45004 1 1
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+0 97 3616440491855719801 0 0 0
+/admin/js/Persons/Individuals/Individuals.view.addORedit.js
+0 48 3543825147892413490 14871 0 0
+/admin/src/images/GallerySubSubGroups/gallery_sub_sub_groups_image1609661560.jfif
+0 5 38778624 6552 0 0
+/admin/src/images/Customers/customer_image1608792642.jpeg
+0 6 105112332140851 880350 0 0
+/admin/js/Persons/CustomerAddresses/CustomerAddresses.view.addORedit.js
+0 14 3543551373841610294 4442 0 0
+/admin/controllers/BankAccounts/BankAccounts
+0 26 3258693195490801197 56250 2 2
+/admin/js/Products/ProductsInfo/Sizes/Sizes.view.addORedit.js
+0 2 0 410 0 0
+/admin/src/images/GalleryProductName/gallery_product_name_image1609661587.jfif
+0 1 38780160 6552 0 0
+/admin/Providers
+0 7 38785744 101726 0 1
+/admin/src/images/Customers/customer_image1608801423.jfif
+0 7 0 64722 0 0
+/admin/src/images/ProductSubGroups/product_sub_group_image1609595925.jpg
+0 22 38773088 3556740 0 0
+/admin/src/dist/js/fw_js.js
+0 92 0 229632 0 0
+/images/logo-inverse-128x61.png
+0 2 38787904 24148 0 0
+/images/blick-content-01.png
+0 2 38789248 2313922 0 0
+/admin/Educations
+0 1 38780864 14526 0 0
+/admin/src/dist/css/persian-datepicker.min.css
+0 97 0 184688 0 0
+/admin/src/images/Providers/provider_image1609238216.jfif
+0 4 0 19656 0 0
+/admin/controllers/Products/ProductsInfo/Units/Units
+0 10 0 21081 0 0
+/admin/src/dist/fonts/Vazir-Light.woff2
+0 98 0 4764368 0 0
+/admin/controllers/BaseTables/Info/Castes/Castes
+0 23 915933614682017027 256671 0 0
+/admin/controllers/Products/ProductsInfo/Sizes/Sizes
+0 8 38771264 18882 0 1
+/admin/controllers/Products/ProductsInfo/ProductSubGroups/ProductSubGroups
+0 65 38771760 144692 5 6
+/admin/src/images/ProviderBranches/provider_branch_image1609672853.jpg
+0 1 0 59148 0 0
+/admin/src/images/ProviderBranches/provider_branch_image1609668870.jfif
+0 1 0 6552 0 0
+/admin/WorkGroups
+0 1 38728912 14635 0 0
+/css/bootstrap.css
+0 3 0 64164 0 0
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff
+0 97 0 0 0 0
+/admin/addCustomerAddresses
+0 4 0 58536 0 0
+/admin/controllers/Products/Galleries/GalleryGroups/GalleryGroups
+0 26 0 60173 3 1
+/admin/ProviderToStartup
+0 1 38785856 14523 0 0
+/admin/src/dist/js/submit.js
+0 92 0 126592 0 0
+/admin/src/images/Brands/brand_image1609078751.jpg
+0 1 38777072 410358 0 0
+/admin/src/images/Customers/customer_image1609395888.jfif
+0 8 0 45864 0 0
+/admin/src/images/SocialMedias/social_media_icon1609155550.jpg
+0 2 0 95062 0 0
+/admin/controllers/Agencies/Agencies
+0 149 0 302297 7 6
+/admin/Agencies
+0 3 0 43906 1 1
+/admin/js/BaseTables/Locations/Cities/Cities.view.addORedit.js
+0 20 0 3940 0 0
+/
+0 5 0 67212 4 0
+/admin/src/images/ProductSubGroups/product_sub_group_icon1609077165.jpg
+0 22 0 220484 0 0
+/admin/addColors
+0 1 38775296 14635 1 0
+/admin/controllers/Startups/Startups/Startups
+0 16 0 43106 2 0
+/admin/js/BaseTables/Locations/Districts/Districts.view.addORedit.js
+0 17 8026309745506595381 4114 0 0
+/admin/src/dist/js/moment/moment.min.js
+0 92 0 2200180 0 0
+/admin/src/images/SocialMedias/social_media_icon1609395611.jfif
+0 2 0 13104 0 0
+/admin/src/images/ProductSubSubGroups/product_sub_sub_group_image1609077843.jpg
+0 5 38777648 254245 0 0
+/admin/src/dist/js/adminlte.js.map
+0 56 3688503268875841081 1771616 0 0
+/admin/src/dist/css/bootstrap-rtl.min.css
+0 97 6230449928903996726 110192 0 0
+/admin/src/dist/js/fw_tags/src/funcs.js
+0 92 1836016430 19688 0 0
+/admin/src/dist/css/persian-datepicker.min.css.map
+0 58 0 13910 0 0
+/images/parallax-scene-01-132x133.png
+0 2 38788128 9022 0 0
+/admin/controllers/Products/Galleries/GalleryProductName/GalleryProductName
+0 20 38777824 46194 3 2
+/admin/controllers/Startups/StartupUsers/StartupUsers
+0 18 0 45015 1 0
+/admin/src/dist/js/fw_tags/fw_tags.js
+0 92 3905237897102570029 39192 0 0
+/admin/editAgencies
+0 13 7020374246038992240 190348 0 2
+/admin/controllers/Products/Galleries/PhotoMarks/PhotoMarks
+0 25 0 58529 1 1
+/images/parallax-scene-02-186x208.png
+0 2 38788256 15798 0 0
+/admin/controllers/BaseTables/Info/Jobs/Jobs
+0 17 8386105122361011298 38521 0 0
+/admin/addCities
+0 1 38786880 14557 0 0
+/admin/controllers/BaseTables/Info/ContractTypes/ContractTypes
+0 10 8607616312768033907 23019 0 1
+/admin/src/dist/css/spinner.css
+0 97 3330746390723690496 13677 0 0
+/admin/src/dist/js/tables.js
+0 92 72057594037927936 116104 0 0
+/admin/src/images/SocialMedias/social_media_icon1609155505.jfif
+0 2 0 13104 0 0
+/admin/src/images/GallerySubGroups/gallery_sub_groups_image1609653103.jpg
+0 26 38774736 1537848 0 0
+/admin/GallerySubSubGroups
+0 2 38779552 29128 1 1
+/admin/controllers/Products/Products/ProductsName/ProductsName
+0 9 0 24830 0 0
+/admin/controllers/BaseTables/Locations/Ranges/Ranges
+0 207 0 161675 5 5
+/admin/src/dist/js/selectIcon.js
+0 107 3689060746956713271 43656 0 0
+/admin/addProviderToStartup
+0 36 38775920 523538 1 12
+/admin/favicon.png
+0 136 411037400577 1901008 0 0
+/admin/conf/Activate
+0 52 3903838253109571689 1092 0 0
+/admin/src/dist/js/autocomplete.js
+0 92 4121688890034501429 82616 0 0
+/admin/src/images/Providers/provider_image1609226641.jpg
+0 3 1606306803 4563900 0 0
+/admin/src/images/Sizes/size_icon1609079046.jpg
+0 1 38776928 49310 0 0
+/images/ipad-01-1360x1233.png
+0 2 38788896 154862 0 0
+/admin/src/dist/images/CompanyLogo.png
+0 92 95505 3481648 0 0
+/js/core.min.js
+0 3 0 1184694 0 0
+/admin/addGalleryProductName
+0 1 38780512 14524 0 0
+/admin/GalleryGroups
+0 2 38779440 29124 0 0
+/admin/js/Startups/Startups/Startups.view.addORedit.js
+0 7 0 2177 0 0
+/admin/src/images/ProductSubSubGroups/product_sub_sub_group_icon1609667359.jpg
+0 2 38780336 1013402 0 0
+/images/parallax-scene-04-124x145.png
+0 2 38788512 10100 0 0
+/admin/src/images/Providers/provider_image1609146919.jpeg
+0 3 0 514602 0 0
+/admin/controllers/ProviderToStartup/ProviderToStartup
+0 121 0 357660 18 8
+/images/parallax-scene-03-108x120.png
+0 2 38788384 7320 0 0
+/admin/src/images/SocialMedias/social_media_icon1609155595.jpg
+0 2 0 95062 0 0
+/admin/src/dist/fonts/Vazir-Black.woff2
+0 92 0 3892336 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-18-229-73-207.sa-east-1.compute.amazonaws.com
+0 1 0 707 0 0
+-
+5.237.82.194
+0 6689 6567 84717983 152 1609687881
+/admin/controllers/ProviderToStartup/ProviderToStartup
+115683.cloudwaysapps.com
+0 1 0 707 0 0
+-
+209.17.96.74.rdns.cloudsystemnetworks.com
+0 1 1 36385 1 1609525723
+/
+crawl-66-249-64-97.googlebot.com
+0 2 2 97103 0 0
+-
+crawl-66-249-64-100.googlebot.com
+0 3 3 412286 0 0
+-
+crawl-66-249-64-103.googlebot.com
+0 2 1 7798 1 1609520616
+/
+google-proxy-66-249-83-2.google.com
+0 1 1 6999 1 1609682681
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+5.237.82.194
+0 4106 4059 55203405 108 1609687881
+/admin/controllers/ProviderToStartup/ProviderToStartup
+google-proxy-66-249-83-2.google.com
+0 1 1 6999 1 1609682681
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://negaclub.ir/admin/Startups
+0 15
+http://negaclub.ir/admin/Brands
+0 41
+http://negaclub.ir/admin/addSupervisions
+0 8
+http://negaclub.ir/admin/addBankAccounts
+0 7
+http://negaclub.ir/admin/Customers
+0 54
+http://negaclub.ir/admin/Castes
+0 14
+http://negaclub.ir/admin/ProviderToStartup
+0 72
+http://negaclub.ir/admin/addDistricts
+0 73
+http://negaclub.ir/admin/ProductsName
+0 9
+http://negaclub.ir/admin/deleteProviderBranches
+0 3
+http://negaclub.ir/admin/addGallerySubSubGroups
+0 14
+http://negaclub.ir/admin/addGalleryProductName
+0 53
+http://negaclub.ir/admin/addColors
+0 38
+http://negaclub.ir/admin/editBankAccounts
+0 2
+http://negaclub.ir/admin/addEducations
+0 1
+http://negaclub.ir/admin/ProductSubSubGroups
+0 44
+http://negaclub.ir/admin/CustomerAddresses
+0 14
+http://negaclub.ir/admin/Districts
+0 57
+http://negaclub.ir/admin/editGallerySubGroups
+0 2
+http://negaclub.ir/admin/addCountries
+0 17
+http://negaclub.ir/admin/addStartupUsers
+0 25
+http://negaclub.ir/admin/addStartups
+0 8
+http://negaclub.ir/admin/viewGallerySubGroups
+0 1
+http://negaclub.ir/css/style.css
+0 4
+http://negaclub.ir/admin/addPhotoMarks
+0 10
+http://negaclub.ir/admin/src/plugins/font-awesome/css/font-awesome.min.css
+0 292
+http://negaclub.ir/admin/BankCards
+0 9
+http://negaclub.ir/admin/addSocialMedias
+0 1
+http://negaclub.ir/admin/addSizes
+0 5
+http://negaclub.ir/admin/addGallerySubGroups
+0 316
+http://negaclub.ir/admin/addJobs
+0 10
+http://negaclub.ir/admin/StartupUsers
+0 17
+http://negaclub.ir/admin/Productions
+0 7
+http://negaclub.ir/admin/Agencies
+0 104
+http://negaclub.ir/admin/Jobs
+0 15
+http://negaclub.ir/admin/index
+0 69
+http://negaclub.ir/admin/deleteBankAccounts
+0 5
+http://negaclub.ir/admin/viewColors
+0 27
+http://negaclub.ir/admin/Banks
+0 23
+http://negaclub.ir/admin/addCities
+0 84
+http://negaclub.ir/admin/WorkGroups
+0 21
+http://negaclub.ir/admin/viewIndividuals
+0 2
+http://negaclub.ir/admin/viewProviderBranches
+0 4
+http://negaclub.ir/admin/Levels
+0 7
+http://negaclub.ir/admin/addProviderBranches
+0 583
+http://negaclub.ir/admin/viewRanges
+0 1
+http://negaclub.ir/admin/GalleryGroups
+0 64
+http://negaclub.ir/admin/Supervisions
+0 13
+http://negaclub.ir/admin/viewProviders
+0 1
+http://negaclub.ir/admin/ProductGroups
+0 11
+http://negaclub.ir/
+0 37
+http://negaclub.ir/admin/BankAccounts
+0 14
+- (Direct Request)
+0 152
+http://negaclub.ir/admin/editColors
+0 9
+http://negaclub.ir/admin/addAcceptorpictures
+0 2
+http://negaclub.ir/admin/addStates
+0 43
+http://negaclub.ir/admin/addProductions
+0 4
+http://negaclub.ir/admin/Providers
+0 116
+http://negaclub.ir/admin/editIndividuals
+0 20
+http://negaclub.ir/admin/States
+0 65
+http://negaclub.ir/admin/GallerySubSubGroups
+0 71
+http://negaclub.ir/login/
+0 1
+http://negaclub.ir/css/fonts.css
+0 4
+http://negaclub.ir/admin/viewGalleryProductName
+0 1
+http://negaclub.ir/admin/addCastes
+0 3
+http://negaclub.ir/admin/addWorkGroups
+0 3
+http://negaclub.ir/admin/
+0 2
+http://negaclub.ir/admin/viewDistricts
+0 1
+http://negaclub.ir/admin/addProductGroups
+0 2
+http://negaclub.ir/admin/addProviders
+0 11
+http://negaclub.ir/admin/addCustomerAddresses
+0 155
+http://negaclub.ir/admin/Units
+0 6
+http://negaclub.ir/admin/editAgencies
+0 233
+http://negaclub.ir/admin/deleteProviderToStartup
+0 6
+http://negaclub.ir/admin/src/dist/css/custom-style.css
+0 482
+http://negaclub.ir/admin/addProductSubSubGroups
+0 3
+http://negaclub.ir/admin/deleteColors
+0 2
+http://negaclub.ir/admin/addAgencies
+0 51
+http://negaclub.ir/admin/Countries
+0 39
+http://negaclub.ir/admin/Acceptorpictures
+0 18
+http://negaclub.ir/admin/ProductSubGroups
+0 127
+http://negaclub.ir/admin/addUnits
+0 4
+http://negaclub.ir/admin/GalleryProductName
+0 14
+http://negaclub.ir/admin/Educations
+0 9
+http://negaclub.ir/admin/addGalleryGroups
+0 10
+http://negaclub.ir/admin/addIndividuals
+0 754
+http://negaclub.ir/admin/addBankCards
+0 4
+http://negaclub.ir/admin/Ranges
+0 52
+http://negaclub.ir/admin/Cities
+0 60
+http://negaclub.ir/admin/Colors
+0 73
+http://negaclub.ir/admin/Sizes
+0 8
+http://negaclub.ir/admin/login
+0 88
+http://negaclub.ir/admin/SocialMedias
+0 18
+http://negaclub.ir/admin/addCustomers
+0 46
+http://negaclub.ir/admin/ContractTypes
+0 13
+http://negaclub.ir/admin/Individuals
+0 62
+http://negaclub.ir/admin/GallerySubGroups
+0 212
+http://negaclub.ir/admin/addProductSubGroups
+0 3
+http://negaclub.ir/admin/addBanks
+0 3
+http://negaclub.ir/admin/addRanges
+0 199
+http://negaclub.ir/admin/ProviderBranches
+0 70
+http://negaclub.ir/admin/addBrands
+0 3
+http://negaclub.ir/admin/addProviderToStartup
+0 1014
+http://negaclub.ir/admin/PhotoMarks
+0 21
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 179
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 6510
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 1
+Google-Adwords-Instant (+http://www.google.com/adsbot.html)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.90 Mobile S
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

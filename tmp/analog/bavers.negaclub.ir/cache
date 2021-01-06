@@ -1,0 +1,98 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	102	13	86	4	1447531
+D	26819528	26822377
+18624	193	10	0	824
+18624	194	43	4	597529
+18624	208	2	1	24294
+18624	273	3	1	1729
+18624	285	1	1	444
+18625	187	1	1	1011
+18625	192	1	1	1007
+18626	170	2	1	175806
+18626	187	39	3	644887
+1	2	0	0	0	26822376	0	0	26819534	0	0	20356	/admin/src/dist/js/persian-date.min.js
+1	2	0	0	0	26819534	0	0	26819534	0	0	464	/admin/controller/Levels
+1	1	0	0	0	26819528	0	0	26819528	0	0	64	/.well-known/acme-challenge/U698HV4CXW68KMQZFP6V4FXSYPDV79SW
+1	2	0	0	0	26822376	0	0	26819534	0	0	2752	/admin/src/dist/js/submit.js
+1	2	0	0	0	26822376	0	0	26822376	0	0	63272	/admin/src/dist/js/adminlte.js.map
+1	0	0	80	0	0	26822376	0	0	26819601	0	0	/admin/fwTools/controller/formGenerator/login
+1	2	0	0	0	26822376	0	0	26819534	0	0	0	/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+1	2	0	0	0	26822376	0	0	26819534	0	0	1796	/admin/src/dist/js/autocomplete.js
+1	5	5	0	0	26822377	0	0	26819531	0	0	2764	/
+1	2	0	0	0	26822376	0	0	26819534	0	0	102512	/admin/src/dist/fonts/Vazir-Medium.woff2
+1	2	0	0	0	26822376	0	0	26819534	0	0	31178	/admin/src/dist/js/persian-datepicker.min.js
+1	3	0	0	0	26822377	0	0	26819531	0	0	513	/_autoindex/icons/blank.png
+1	0	0	1	0	0	26819601	0	0	26819601	0	0	/admin/fwTools/controller/formGenerator/formGenerator?34.209.232.166
+1	0	0	1	0	0	26819532	0	0	26819532	0	0	/admin
+1	1	1	0	0	26820961	0	0	26820961	0	0	1007	/?34.209.232.166
+1	0	0	0	2	0	0	26822377	0	0	26819532	0	/favicon.ico
+1	2	0	0	0	26822376	0	0	26819534	0	0	7930	/admin/src/dist/js/adminlte.js
+1	0	0	0	2	0	0	26822290	0	0	26819532	0	/robots.txt
+1	1	0	0	0	26819534	0	0	26819534	0	0	232	/admin/controller/CustomerAddresses
+1	1	0	0	0	26819528	0	0	26819528	0	0	64	/.well-known/acme-challenge/2R1YK59-EL86N8XK3UV8TTRRK66TZD8B
+1	4	0	0	0	26822376	0	0	26819534	0	0	55912	/admin/favicon.png
+1	3	0	0	0	26822377	0	0	26819531	0	0	3342	/_autoindex/icons/folder.png
+1	2	0	0	0	26822376	0	0	26819534	0	0	282	/admin/src/dist/css/spinner.css
+1	2	0	0	0	26822376	0	0	26819534	0	0	83712	/admin/src/dist/fonts/Vazir-Bold.woff2
+1	2	0	0	0	26822376	0	0	26819534	0	0	3808	/admin/src/dist/css/persian-datepicker.min.css
+1	0	0	3	0	0	26822376	0	0	26822290	0	0	/admin/fwTools/controller/formGenerator/formGenerator
+1	4	0	0	0	26819528	0	0	26819528	0	0	348	/.well-known/acme-challenge/U8oY2uQUWt3LVItzHj4eT94LyfNIzPw-p83cfZGrZTc
+1	2	0	0	0	26822376	0	0	26819534	0	0	84616	/admin/src/dist/fonts/Vazir-Black.woff2
+1	2	0	0	0	26822376	0	0	26819534	0	0	5816	/admin/src/dist/js/pages/dashboard2.js
+1	2	0	0	0	26822376	0	0	26819534	0	0	5298	/admin/src/dist/css/custom-style.css
+1	2	0	0	0	26822376	0	0	26819534	0	0	4992	/admin/src/dist/js/fw_js.js
+1	2	0	0	0	26822376	0	0	26819534	0	0	0	/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+1	2	0	0	0	26822376	0	0	26819534	0	0	71024	/admin/src/dist/css/adminlte.min.css
+1	2	0	0	0	26822376	0	0	26819534	0	0	2272	/admin/src/dist/css/bootstrap-rtl.min.css
+1	7	7	0	0	26822376	0	0	26819532	0	0	62869	/admin/
+1	2	0	0	0	26822376	0	0	26819534	0	0	11568	/admin/src/dist/js/check.js
+1	4	0	0	0	26819528	0	0	26819528	0	0	348	/.well-known/acme-challenge/JMfkTsNnqVolvaP1xELnRtQ3hZZk4EStFYj8RXJpkcg
+1	2	0	0	0	26822376	0	0	26819534	0	0	852	/admin/src/dist/js/fw_tags/fw_tags.js
+1	2	0	0	0	26822376	0	0	26822376	0	0	464	/admin/src/dist/css/persian-datepicker.min.css.map
+1	2	0	0	0	26822376	0	0	26819534	0	0	47830	/admin/src/dist/js/moment/moment.min.js
+1	0	0	1	0	0	26822377	0	0	26822377	0	0	/admin/sign-out
+1	2	0	0	0	26822376	0	0	26819534	0	0	3614	/admin/src/dist/js/demo.js
+1	2	0	0	0	26822376	0	0	26819534	0	0	330	/admin/src/dist/js/Shortcuts/Shortcuts.js
+1	3	0	0	0	26822376	0	0	26819534	0	0	496644	/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+1	2	0	0	0	26822376	0	0	26819534	0	0	75688	/admin/src/dist/images/CompanyLogo.png
+1	1	0	0	0	26819534	0	0	26819534	0	0	232	/admin/controller/Customers
+1	2	0	0	0	26819534	0	0	26819534	0	0	464	/admin/controller/Individuals
+1	2	0	0	0	26822376	0	0	26819534	0	0	97232	/admin/src/dist/fonts/Vazir-Light.woff2
+1	2	0	0	0	26822376	0	0	26819534	0	0	2524	/admin/src/dist/js/tables.js
+1	2	0	0	0	26822376	0	0	26819534	0	0	14110	/admin/src/plugins/font-awesome/css/font-awesome.min.css
+1	2	0	0	0	26822376	0	0	26819534	0	0	76008	/admin/src/dist/fonts/Vazir.woff2
+1	2	0	0	0	26822376	0	0	26819534	0	0	428	/admin/src/dist/js/fw_tags/src/funcs.js
+3	7	0	0	0	26822376	0	0	26819534	0	0	496644	http://bavers.negaclub.ir/admin/src/plugins/font-awesome/css/font-awesome.min.css
+3	10	0	0	0	26822376	0	0	26819534	0	0	444080	http://bavers.negaclub.ir/admin/src/dist/css/custom-style.css
+3	53	1	85	1	26822377	26822377	26819532	26819534	26819601	26819532	372196	http://bavers.negaclub.ir/admin/
+3	6	0	0	1	26822377	0	26822377	26819531	0	26822377	3855	http://bavers.negaclub.ir/
+4	2	2	0	0	26820961	0	0	26820939	0	0	2018	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+4	83	8	86	4	26822377	26822377	26822377	26819532	26819532	26819532	1440810	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+4	1	1	0	0	26819989	0	0	26819989	0	0	444	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+4	8	0	0	0	26819528	0	0	26819528	0	0	696	Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+4	3	1	0	0	26819926	0	0	26819926	0	0	1729	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/602.1 (KHTML, like Gecko) splash Version/10.0 Safari/602.1
+4	3	1	0	0	26819531	0	0	26819531	0	0	1706	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+4	2	0	0	0	26819528	0	0	26819528	0	0	128	Cpanel-HTTP-Client/1.0
+5	1	1	0	0	26819989	0	0	26819989	0	0	444	54.221.27.173
+5	1	1	0	0	26820961	0	0	26820961	0	0	1007	195.154.61.206
+5	42	4	22	2	26819601	26819601	26819532	26819532	26819532	26819532	620117	5.238.63.74
+5	1	0	0	0	26819528	0	0	26819528	0	0	87	3.128.26.105
+5	41	4	64	2	26822377	26822377	26822377	26822290	26822290	26822290	820693	5.237.123.112
+5	1	1	0	0	26820939	0	0	26820939	0	0	1011	212.83.146.233
+5	3	1	0	0	26819531	0	0	26819531	0	0	1706	65.155.30.101
+5	2	0	0	0	26819528	0	0	26819528	0	0	174	64.78.149.164
+5	2	0	0	0	26819528	0	0	26819528	0	0	174	18.196.96.172
+5	3	1	0	0	26819926	0	0	26819926	0	0	1729	137.132.219.139
+5	2	0	0	0	26819528	0	0	26819528	0	0	128	213.108.240.92
+5	1	0	0	0	26819528	0	0	26819528	0	0	87	3.22.70.135
+5	2	0	0	0	26819528	0	0	26819528	0	0	174	34.209.232.166
+z	0	4	0	26822376	0
+z	2	10	0	26819528	824
+z	3	28	7	26822377	10268
+z	4	27	0	26822377	88382
+z	5	30	6	26822376	851413
+z	6	3	0	26822376	496644
+c	200	102	26822377
+c	301	1	26819532
+c	302	85	26822377
+c	404	4	26822377

@@ -1,0 +1,553 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	3265	74	123	29	41985627
+D	26681119	26829570
+18528	159	1	0	0
+18528	196	1	1	460
+18528	208	2	2	0
+18529	175	1	1	999
+18532	203	1	1	999
+18533	168	1	1	999
+18538	247	1	1	999
+18539	111	35	0	593242
+18539	112	53	0	175696
+18539	113	86	0	65572
+18539	114	7	0	48550
+18539	135	2	0	16900
+18539	137	2	0	16900
+18539	142	2	0	16900
+18539	219	1	1	425
+18546	0	1	1	525
+18546	141	1	1	1577
+18549	225	4	1	2872
+18550	3	1	1	525
+18550	21	1	1	525
+18551	273	1	1	1577
+18552	153	1	1	1577
+18558	129	1	1	1577
+18559	164	2	2	0
+18559	169	1	1	524
+18559	200	1	1	524
+18560	85	1	1	524
+18560	169	1	1	1577
+18563	229	1	1	1577
+18577	195	1	1	2923
+18577	212	11	0	154
+18577	213	2	0	28
+18578	109	5	0	533
+18578	110	5	0	2225
+18578	111	5	0	2225
+18578	112	4	0	1780
+18578	113	3	0	1335
+18578	115	2	0	166
+18578	116	3	0	268
+18578	123	2	0	186
+18578	124	4	0	5320
+18578	125	1	0	89
+18578	131	3	0	1201
+18578	132	3	0	1069
+18578	133	7	0	3046
+18578	134	7	0	2390
+18578	135	1	0	214
+18578	138	3	0	1557
+18578	139	2	0	311
+18578	140	1	0	220
+18578	141	4	0	369
+18578	150	4	0	499
+18578	176	1	0	220
+18578	180	1	0	220
+18578	181	4	0	947
+18578	182	2	0	1092
+18578	183	1	0	221
+18578	184	1	0	244
+18579	112	5	0	970
+18579	113	2	0	515
+18579	114	1	0	221
+18579	115	6	0	961
+18579	116	1	0	247
+18579	148	1	0	247
+18590	186	1	1	1577
+18592	212	2	1	4795
+18592	216	1	0	0
+18594	200	1	1	1581
+18602	144	1	1	0
+18604	70	1	1	38086
+18604	77	1	1	1582
+18604	79	1	1	1577
+18604	89	1	1	1581
+18609	194	1	1	0
+18613	112	4	1	2881
+18614	270	1	1	0
+18619	111	14	2	144909
+18619	115	6	5	6934
+18619	133	5	1	3906
+18619	135	1	1	168
+18619	142	77	2	1576045
+18619	143	53	0	633939
+18619	144	15	0	236
+18619	145	122	0	1950147
+18619	146	263	0	5028887
+18619	147	132	0	1951106
+18619	149	27	0	17712
+18619	150	74	0	1277709
+18619	151	118	1	1316831
+18619	152	41	0	51311
+18619	153	33	0	615313
+18619	154	106	0	1878894
+18619	155	32	0	619669
+18619	165	16	0	404811
+18619	166	11	0	90145
+18619	167	6	0	5832
+18619	168	33	0	615690
+18619	169	48	0	669234
+18619	170	96	0	1844738
+18619	172	52	0	1051002
+18619	173	34	0	976168
+18619	174	78	0	1564801
+18619	175	34	0	976168
+18619	176	27	0	576494
+18619	177	17	0	488084
+18619	178	107	0	1693022
+18619	179	57	0	576502
+18619	181	12	0	6558
+18619	182	61	0	1107849
+18619	184	5	0	19663
+18619	185	59	0	54132
+18619	186	5	0	2539
+18619	187	4	0	2320
+18619	188	37	0	581977
+18619	189	46	0	569773
+18619	190	33	0	584764
+18619	191	46	0	596805
+18619	192	8	0	30899
+18619	193	17	0	27508
+18619	195	7	0	20377
+18619	201	38	0	566643
+18619	203	31	0	561343
+18619	204	7	0	4310
+18619	205	31	0	561260
+18619	206	4	0	30749
+18619	207	113	0	2188944
+18619	208	66	0	1145086
+18619	209	39	0	42455
+18619	210	60	0	39360
+18619	211	125	0	81242
+18619	212	8	0	32023
+18622	207	1	1	36385
+18622	271	1	1	0
+18626	56	1	1	36385
+18626	123	37	1	576472
+18626	125	4	0	39383
+18626	128	122	0	1845795
+18626	129	60	0	682581
+18626	130	9	0	22552
+18626	131	12	4	25839
+18626	132	55	16	129292
+18627	274	1	1	7044
+18628	87	1	0	5050
+18628	138	1	1	0
+18628	153	11	0	28794
+18628	155	11	0	6672
+18630	64	1	0	17
+18631	186	1	1	36385
+1	353	0	0	0	26812417	0	0	26696726	0	0	42939	/admin/fwTools/controller/modelGenerator/modelGenerator
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	55	0	0	0	26822085	0	0	26696715	0	0	42570	/admin/src/dist/js/autocomplete.js
+1	14	0	0	0	26696733	0	0	26696727	0	0	15889	/admin/controllers/Cloud/Customers/Customers/Customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26812301	0	0	26812301	0	0	9279	/admin/workGroup
+1	55	0	0	0	26822085	0	0	26696715	0	0	208945	/admin/src/dist/js/adminlte.js
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	5	0	0	0	26812408	0	0	26812317	0	0	6524	/admin/controllers/BaseTables/Info/Educations/Educations
+1	0	0	0	2	0	0	26827506	0	0	26824254	0	/robots.txt?165.227.46.43
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	0	1	0	0	26773542	0	0	26773542	0	/favicon.ico?192.95.30.65
+1	8	8	0	5	26812116	0	26812059	26751859	0	26812046	32752	/admin/
+1	8	8	0	0	26724167	0	0	26682639	0	0	8000	/?45.63.68.132
+1	4	0	0	0	26696721	0	0	26696721	0	0	106764	/admin/src/images/Startups/startup_logo1601702994.png
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	55	0	0	0	26822085	0	0	26696715	0	0	9075	/admin/src/dist/js/Shortcuts/Shortcuts.js
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	0	1	0	0	26827506	0	0	26827506	0	/about
+1	3	0	0	0	26812088	0	0	26812087	0	0	26515	/admin/formGenerator
+1	25	0	0	0	26822093	0	0	26696721	0	0	8550	/admin/src/dist/js/selectIcon.js
+1	0	0	0	1	0	0	26827507	0	0	26827507	0	/main
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26696715	0	0	26696715	0	0	8836	/admin/editStartups
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	5	0	0	0	26812408	0	0	26812317	0	0	6421	/admin/controllers/BaseTables/Info/Jobs/Jobs
+1	1	0	0	0	26812192	0	0	26812192	0	0	9010	/admin/Cite
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	20	0	0	26812073	0	0	26812073	0	0	/admin/controllers/BaseTables/States/login
+1	1	0	0	0	26812317	0	0	26812317	0	0	9517	/admin/Banks
+1	21	21	0	0	26822103	0	0	26822057	0	0	6930	/admin/src/images/States/
+1	55	0	0	0	26822085	0	0	26696715	0	0	813945	/admin/src/dist/js/persian-datepicker.min.js
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	4	0	0	0	26812188	0	0	26812074	0	0	11242	/admin/login
+1	0	0	0	1	0	0	26811936	0	0	26811936	0	/cgi-bin/
+1	5	0	0	0	26812366	0	0	26812325	0	0	6887	/admin/controllers/BaseTables/Info/BankCards/BankCards
+1	0	0	0	1	0	0	26827508	0	0	26827508	0	/privacy-policy.html
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	20	0	0	0	26752885	0	0	26752866	0	0	8070	/admin/WebServiceApp/API/_walletHistory
+1	4	0	0	0	26812028	0	0	26711688	0	0	4456	/_autoindex/icons/folder.png
+1	5	0	0	0	26812424	0	0	26812422	0	0	7046	/admin/controllers/Persons/Individuals/Individuals
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	15	0	0	0	26752866	0	0	26751940	0	0	210	/admin/WebServiceApp/API/_controller
+1	0	0	0	1	0	0	26706011	0	0	26706011	0	/wp-login.php?5.237.118.12
+1	1	0	0	0	26812121	0	0	26812121	0	0	8939	/admin/Districts
+1	3	3	0	0	26805514	0	0	26797930	0	0	434	/?157.245.215.240
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26754322	0	0	26754322	0	0	109	/admin/Clients/API/_walletHistory?192.95.30.65
+1	1	0	0	0	26812301	0	0	26812301	0	0	9279	/admin/workGroups
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/customers
+1	71	0	0	0	26822085	0	0	26696715	0	0	2698284	/admin/src/dist/fonts/Vazir.woff2
+1	55	0	0	0	26822085	0	0	26696715	0	0	542575	/admin/src/dist/js/persian-date.min.js
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	2	0	0	0	26812209	0	0	26812209	0	0	443	/admin/controller/gfh
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	7	0	0	0	26812288	0	0	26812288	0	0	2765	/admin/fwTools/view/DataSeeder/DataSeeder
+1	2	0	0	0	26812116	0	0	26812087	0	0	1350	/admin/fwTools/view/QueryBuilder/QueryBuilder
+1	25	0	0	0	26822093	0	0	26696721	0	0	18982	/admin/src/dist/js/final_submit.js
+1	164	0	0	0	26812416	0	0	26696726	0	0	280523	/admin/fwTools/view/modelGenerator/modelGenerator
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	0	2	0	0	26731002	0	0	26706012	0	/robots.txt
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	6	0	0	0	26825095	0	0	26825087	0	0	11431	/admin/controllers/Supervisions/Supervisions
+1	7	0	0	0	26822103	0	0	26822098	0	0	70115	/admin/controllers/Providers/Providers?provider_id=4
+1	3	0	0	0	26812116	0	0	26812078	0	0	706	/admin/Labels/addLabels
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	3	0	0	0	26812255	0	0	26812119	0	0	26843	/admin/Countries
+1	7	0	0	0	26812408	0	0	26812317	0	0	49150	/admin/controllers/BaseTables/Info/Castes/Castes
+1	8	0	0	0	26812408	0	0	26812317	0	0	10873	/admin/controllers/BaseTables/Info/WorkGroups/WorkGroups
+1	71	0	0	0	26822085	0	0	26696715	0	0	174283	/admin/src/dist/css/custom-style.css
+1	8	8	0	0	26821720	0	0	26725961	0	0	116547	/?165.227.46.43
+1	1	0	0	0	26822093	0	0	26822093	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609226620
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	24	0	0	0	26822085	0	0	26696715	0	0	5394	/admin/src/dist/css/persian-datepicker.min.css.map
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812073	0	0	26812073	0	0	/admin/controllers/BaseTables/States/States
+1	0	0	0	1	0	0	26681119	0	0	26681119	0	/%DB%B5%DB%B9%DB%B7%DB%B4%DB%B2%DB%B4.txt
+1	0	0	1	0	0	26822057	0	0	26822057	0	0	/admin/src/images/States
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26751859	0	0	26751859	0	0	/admin?165.227.46.43
+1	55	0	0	0	26822085	0	0	26696715	0	0	10395	/admin/src/dist/js/fw_tags/src/funcs.js
+1	8	0	0	0	26696721	0	0	26696715	0	0	7989	/admin/controllers/Cloud/Startups/Startups
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	2	0	0	0	26811936	0	0	26681119	0	0	0	/597424.txt
+1	6	0	0	0	26812221	0	0	26812208	0	0	53993	/admin/Cities
+1	1	0	0	0	26812253	0	0	26812253	0	0	1163	/admin/controllers/BaseTables/Locations/Countries/Countries?countrie_id=3
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	2	0	0	0	26812209	0	0	26812209	0	0	414	/admin/controller/gfhvc
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26822103	0	0	26822103	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227184
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	4	0	0	0	26812119	0	0	26812119	0	0	3208	/admin/controllers/BaseTable/Countries/Countries
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	72	0	0	0	26754501	0	0	26752897	0	0	22901	/admin/Clients/API/_walletHistory
+1	55	0	0	0	26822085	0	0	26696715	0	0	20790	/admin/src/dist/js/fw_tags/fw_tags.js
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	6	0	0	0	26696874	0	0	26696727	0	0	35381	/admin/Customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	14	0	0	0	26812193	0	0	26812090	0	0	113904	/admin/States
+1	1	0	0	0	26822102	0	0	26822102	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227149
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	69	0	0	0	26822085	0	0	26696715	0	0	3354504	/admin/src/dist/fonts/Vazir-Light.woff2
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26812200	0	0	26812200	0	0	9010	/admin/addStates
+1	1	0	0	0	26812088	0	0	26812088	0	0	356	/admin/fwTools/controller/formGenerator/formGenerator?controller_type=make&tblName=States&label[0]=%D9%86%D8%A7%D9%85+%D8%A7%D8%B3%D8%AA%D8%A7%D9%86&type[0]=varchar&show[0]=true&name[0]=state_name&col_type[0]=input&class[0]=*&validations[0]=Input&slider[0]=4&submit=
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	4	0	0	0	26696721	0	0	26696721	0	0	5574	/admin/controllers/Cloud/Startups/Startups?startup_id=1
+1	20	0	0	0	26822085	0	0	26696715	0	0	632720	/admin/src/dist/js/adminlte.js.map
+1	1	0	0	0	26812295	0	0	26812295	0	0	0	/admin/fwTools/controller/modelGenerator/modelGenerator?165.227.46.43
+1	1	0	0	0	26812325	0	0	26812325	0	0	7937	/admin/controllers/BaseTables/Locations/Cities/Cities
+1	1	0	0	0	26822091	0	0	26822091	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609226493
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	38	0	0	0	26822103	0	0	26822057	0	0	290042	/admin/controllers/Providers/Providers
+1	1	0	0	0	26822101	0	0	26822101	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227115
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26822101	0	0	26822101	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227113
+1	6	0	0	0	26812408	0	0	26812317	0	0	5967	/admin/controllers/BaseTables/Info/ContractTypes/ContractTypes
+1	2	0	0	0	26812121	0	0	26812121	0	0	1393	/admin/controllers/BaseTable/Districts/Districts
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	4	0	0	0	26822085	0	0	26822083	0	0	804	/admin/js/Providers/Providers.view.add|edit.js?t=1
+1	1	0	0	0	26827521	0	0	26827521	0	0	17	/page.php?id=1
+1	1	0	0	0	26822101	0	0	26822101	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227093
+1	1	0	0	0	26822101	0	0	26822101	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227089
+1	1	0	0	0	26812206	0	0	26812206	0	0	9011	/admin/rANGES
+1	14	0	0	0	26825086	0	0	26812074	0	0	78338	/admin/index
+1	71	0	0	0	26822085	0	0	26696715	0	0	123398	/admin/src/dist/css/persian-datepicker.min.css
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26822101	0	0	26822101	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227085
+1	68	0	0	0	26822085	0	0	26696715	0	0	2876944	/admin/src/dist/fonts/Vazir-Black.woff2
+1	1	0	0	0	26812028	0	0	26812028	0	0	1139	/_autoindex/icons/up.png
+1	71	0	0	0	26822085	0	0	26696715	0	0	2341509	/admin/src/dist/css/adminlte.min.css
+1	0	0	0	1	0	0	26734849	0	0	26734849	0	/robots.txt?192.95.30.65
+1	55	0	0	0	26822085	0	0	26696715	0	0	304280	/admin/src/dist/js/check.js
+1	1	0	0	0	26822101	0	0	26822101	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227078
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26822103	0	0	26822103	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227184
+1	1	0	0	0	26822101	0	0	26822101	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227071
+1	3	0	0	0	26812232	0	0	26812231	0	0	675	/admin/controller/Countries
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	0	1	0	0	26731002	0	0	26731002	0	/wp-login.php?165.227.46.43
+1	1	0	0	0	26822101	0	0	26822101	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227065
+1	1	0	0	0	26822101	0	0	26822101	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609227064
+1	1	1	0	0	26787601	0	0	26787601	0	0	0	/?192.95.30.65
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	7	0	0	0	26812288	0	0	26812288	0	0	2765	/admin/fwTools/controller/DataSeeder/DataSeeder
+1	71	0	0	0	26822085	0	0	26696715	0	0	473073	/admin/src/plugins/font-awesome/css/font-awesome.min.css
+1	6	0	0	0	26812402	0	0	26812395	0	0	51324	/admin/addStartups
+1	55	0	0	0	26822085	0	0	26696715	0	0	69430	/admin/src/dist/js/submit.js
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	2	0	0	0	26812408	0	0	26812325	0	0	472	/admin/controller/Persons
+1	13	0	0	0	26822057	0	0	26696715	0	0	12163	/admin/src/dist/js/activation.js
+1	2	0	0	0	26773563	0	0	26773542	0	0	4229	/doc/doc.json
+1	1	0	0	0	26822102	0	0	26822102	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227149
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26812097	0	0	26812097	0	0	8916	/admin/Names
+1	69	0	0	0	26822085	0	0	26696715	0	0	3536664	/admin/src/dist/fonts/Vazir-Medium.woff2
+1	1	0	0	0	26824756	0	0	26824756	0	0	5050	/images/parallax-scene-04-124x145.png
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	7	0	0	0	26812210	0	0	26812208	0	0	7497	/admin/controllers/BaseTable/Cities/Cities
+1	29	0	0	0	26812422	0	0	26812223	0	0	190881	/admin/modelGenerator
+1	2	0	0	0	26812408	0	0	26812325	0	0	472	/admin/controller/Assress
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	11	0	0	0	26812098	0	0	26812097	0	0	9585	/admin/controllers/BaseTable/Cities/Names
+1	8	0	0	0	26812408	0	0	26812317	0	0	10670	/admin/controllers/BaseTables/Info/Banks/Banks
+1	1	0	0	0	26822098	0	0	26822098	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609226921
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26812028	0	0	26812028	0	0	1070	/_autoindex/icons/unknown.png
+1	69	0	0	0	26822085	0	0	26696715	0	0	0	/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+1	55	0	0	0	26822085	0	0	26696715	0	0	127748	/admin/src/dist/js/fw_js.js
+1	1	0	0	0	26822098	0	0	26822098	0	0	211	/admin/js/Providers/ProviderBranches.view.addORedit.js?t=1609226911
+1	1	1	0	0	26829570	0	0	26829570	0	0	36385	/?66.249.64.109
+1	9	0	0	0	26812286	0	0	26812254	0	0	1461	/admin/conf/Activate
+1	1	0	0	0	26822101	0	0	26822101	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227115
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26822101	0	0	26822101	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227113
+1	55	0	0	0	26822085	0	0	26696715	0	0	1258536	/admin/src/dist/js/moment/moment.min.js
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	13	0	0	0	26812325	0	0	26812253	0	0	12913	/admin/controllers/BaseTables/Locations/Countries/Countries
+1	7	0	0	0	26812325	0	0	26812282	0	0	22231	/admin/controllers/BaseTables/Locations/Ranges/Ranges
+1	1	0	0	0	26822101	0	0	26822101	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227093
+1	2	0	0	0	26812408	0	0	26812325	0	0	443	/admin/controller/Customers
+1	1	0	0	0	26822101	0	0	26822101	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227089
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26822101	0	0	26822101	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227085
+1	55	0	0	0	26822085	0	0	26696715	0	0	62075	/admin/src/dist/js/tables.js
+1	6	0	0	0	26825095	0	0	26825087	0	0	7871	/admin/controllers/Agencies/Agencies
+1	1	0	0	0	26812366	0	0	26812366	0	0	9517	/admin/BankCards
+1	1	0	0	0	26822101	0	0	26822101	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227078
+1	20	0	0	0	26825096	0	0	26812390	0	0	54684	/admin/controllers/Startups/Startups/Startups
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	69	0	0	0	26822085	0	0	26696715	0	0	0	/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+1	1	0	0	0	26822101	0	0	26822101	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227071
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26822101	0	0	26822101	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227065
+1	1	0	0	0	26822101	0	0	26822101	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609227064
+1	1	1	0	3	26812035	0	26812046	26812035	0	26812028	168	/admin/src/
+1	4	0	0	0	26812028	0	0	26711688	0	0	684	/_autoindex/icons/blank.png
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812028	0	0	26812028	0	0	/admin
+1	4	0	0	0	26822085	0	0	26822083	0	0	41737	/admin/addProviders
+1	0	0	0	3	0	0	26812035	0	0	26811917	0	/favicon.ico
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	2	0	0	0	26812116	0	0	26812087	0	0	536	/admin/fwTools/controller/QueryBuilder/QueryBuilder
+1	79	0	0	0	26822085	0	0	26696715	0	0	1104262	/admin/favicon.png
+1	4	0	0	0	26812206	0	0	26812123	0	0	35902	/admin/Ranges
+1	71	0	0	0	26822085	0	0	26696715	0	0	10011	/admin/src/dist/css/spinner.css
+1	0	0	3	2	0	26812027	26812028	0	26812027	26812027	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	66	0	0	0	26812288	0	0	26696722	0	0	1287	/admin/fwTools/controller/formGenerator/formGenerator
+1	55	0	0	0	26822085	0	0	26696715	0	0	148830	/admin/src/dist/js/pages/dashboard2.js
+1	0	0	0	1	0	0	26696893	0	0	26696893	0	/.well-known/security.txt
+1	71	0	0	0	26822085	0	0	26696715	0	0	70290	/admin/src/dist/css/bootstrap-rtl.min.css
+1	1	0	0	0	26812325	0	0	26812325	0	0	1308	/admin/controllers/BaseTables/Locations/Districts/Districts
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	11	0	0	0	26812409	0	0	26812091	0	0	8451	/admin/controllers/BaseTables/Locations/States/States
+1	4	0	1	0	26812135	26812188	0	26812133	26812188	0	35914	/admin/addRanges
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	66	0	0	0	26822085	0	0	26696715	0	0	4091304	/admin/src/dist/images/CompanyLogo.png
+1	1	0	0	0	26822098	0	0	26822098	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609226921
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26812208	0	0	26812208	0	0	9010	/admin/Cietese
+1	1	0	0	0	26822098	0	0	26822098	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609226911
+1	1	0	0	0	26812424	0	0	26812424	0	0	1409	/admin/controllers/Persons/Customers/Customers
+1	2	0	0	0	26812232	0	0	26812111	0	0	470	/admin/controller/States
+1	15	0	0	0	26812207	0	0	26812123	0	0	46299	/admin/controllers/BaseTable/Ranges/Ranges
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	8	0	0	0	26812116	0	0	26812110	0	0	65571	/admin/states
+1	20	20	0	0	26825012	0	0	26681301	0	0	20030	/
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	69	0	0	0	26822085	0	0	26696715	0	0	2888064	/admin/src/dist/fonts/Vazir-Bold.woff2
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	2	2	0	0	26811936	0	0	26773542	0	0	1132	/doc/
+1	38	0	0	0	26812288	0	0	26696722	0	0	135556	/admin/fwTools/view/formGenerator/formGenerator
+1	1	1	0	0	26811936	0	0	26811936	0	0	90	/api/
+1	0	0	2	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	0	0	0	1	0	0	26734849	0	0	26734849	0	/wp-login.php
+1	3	0	0	0	26811917	0	0	26711688	0	0	3486	/_autoindex/icons/text.png
+1	55	0	0	0	26822085	0	0	26696715	0	0	89265	/admin/src/dist/js/demo.js
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	69	0	0	0	26822085	0	0	26696715	0	0	11422812	/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+1	1	0	0	0	26822086	0	0	26822086	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609226197
+1	15	0	0	0	26812200	0	0	26812117	0	0	14311	/admin/controllers/BaseTable/States/States
+1	0	0	0	1	0	0	26724483	0	0	26724483	0	/.git/config?45.63.68.132
+1	0	0	1	0	0	26812027	0	0	26812027	0	0	/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+1	1	0	0	0	26822086	0	0	26822086	0	0	201	/admin/js/Providers/Providers.view.add|edit.js?t=1609226195
+3	2	0	0	0	26812301	0	0	26812301	0	0	1721	https://negaclub.ir/admin/workGroups
+3	346	0	0	0	26822085	0	0	26696715	0	0	15354460	https://negaclub.ir/admin/src/dist/css/custom-style.css
+3	1	0	0	0	26812323	0	0	26812323	0	0	1236	https://negaclub.ir/admin/addEducations
+3	2	0	0	0	26812253	0	0	26812253	0	0	1250	https://negaclub.ir/admin/deleteCountries
+3	9	0	0	0	26812098	0	0	26812097	0	0	7418	https://negaclub.ir/admin/addNames
+3	38	13	0	0	26822103	0	0	26822098	0	0	77948	https://negaclub.ir/admin/editProviders
+3	4	0	0	0	26812424	0	0	26812423	0	0	5712	https://negaclub.ir/admin/Individuals
+3	1	0	0	0	26812325	0	0	26812325	0	0	1310	https://negaclub.ir/admin/addContractTypes
+3	2	2	0	0	26811936	0	0	26811917	0	0	864	http://negaclub.ir:2082/
+3	10	0	0	0	26825096	0	0	26825087	0	0	9003	https://negaclub.ir/admin/Supervisions
+3	43	1	21	3	26812116	26812073	26812046	26811917	26812073	26812028	347886	https://negaclub.ir/admin/
+3	672	0	0	0	26812422	0	0	26696726	0	0	2996261	https://negaclub.ir/admin/modelGenerator
+3	2	0	0	0	26812325	0	0	26812318	0	0	3285	https://negaclub.ir/admin/addBanks
+3	4	0	0	0	26812408	0	0	26812317	0	0	5203	https://negaclub.ir/admin/Educations
+3	5	0	0	0	26812408	0	0	26812317	0	0	5675	https://negaclub.ir/admin/Jobs
+3	184	0	0	0	26812288	0	0	26696722	0	0	750479	https://negaclub.ir/admin/formGenerator
+3	1	0	0	0	26812209	0	0	26812209	0	0	953	https://negaclub.ir/admin/addCities
+3	16	0	0	0	26812288	0	0	26812288	0	0	26421	https://negaclub.ir/admin/DataSeeder
+3	50	0	0	0	26812325	0	0	26812123	0	0	250374	https://negaclub.ir/admin/Ranges
+3	0	0	0	1	0	0	26812035	0	0	26812035	0	https://negaclub.ir/admin/src/
+3	2	0	0	0	26812087	0	0	26812087	0	0	1721	https://negaclub.ir/admin/QueryBuilder
+3	0	0	0	1	0	0	26773542	0	0	26773542	0	https://negaclub.ir/doc/
+3	1	1	0	0	26697256	0	0	26697256	0	0	425	https://trustseal.enamad.ir/?id=181193&code=3Qt4Ln79mJ8B0yjvSdTZ
+3	2	0	0	0	26812322	0	0	26812318	0	0	11861	https://negaclub.ir/admin/addWorkGroups
+3	3	0	0	0	26825095	0	0	26825087	0	0	5921	https://negaclub.ir/admin/Agencies
+3	152	0	0	0	26822098	0	0	26822068	0	0	872608	https://negaclub.ir/admin/addProviders
+3	32	8	1	0	26822103	26822057	0	26822057	26822057	0	86626	https://negaclub.ir/admin/Providers
+3	5	0	0	0	26812253	0	0	26812119	0	0	3549	https://negaclub.ir/admin/addCountries
+3	79	0	0	0	26812325	0	0	26812119	0	0	367258	https://negaclub.ir/admin/Countries
+3	228	0	0	0	26812409	0	0	26812090	0	0	2093966	https://negaclub.ir/admin/States
+3	3	0	0	0	26812337	0	0	26812322	0	0	4774	https://negaclub.ir/admin/Castes
+3	5	0	0	0	26812408	0	0	26812318	0	0	28064	https://negaclub.ir/admin/WorkGroups
+3	7	0	0	0	26812325	0	0	26812121	0	0	6183	https://negaclub.ir/admin/Districts
+3	1	1	0	0	26751859	0	0	26751859	0	0	2923	https://negaclub.ir/admin
+3	3	0	0	0	26696721	0	0	26696721	0	0	28597	https://negaclub.ir/admin/viewStartups
+3	2	0	0	0	26696721	0	0	26696721	0	0	1911	https://negaclub.ir/admin/deleteStartups
+3	3	0	0	0	26825095	0	0	26825095	0	0	1890	https://negaclub.ir/admin/addAgencies
+3	15	5	0	2	26811936	0	26811936	26711688	0	26811917	16766	https://negaclub.ir/
+3	76	0	0	0	26825087	0	0	26696721	0	0	150560	https://negaclub.ir/admin/Startups
+3	6	0	0	0	26696729	0	0	26696728	0	0	7011	https://negaclub.ir/admin/addCustomers
+3	13	0	0	0	26696874	0	0	26696727	0	0	78768	https://negaclub.ir/admin/Customers
+3	46	0	0	0	26812108	0	0	26812097	0	0	219668	https://negaclub.ir/admin/Names
+3	3	0	0	0	26812408	0	0	26812325	0	0	4138	https://negaclub.ir/admin/ContractTypes
+3	98	0	0	0	26812284	0	0	26812133	0	0	912207	https://negaclub.ir/admin/addRanges
+3	128	0	0	0	26812408	0	0	26696721	0	0	960538	https://negaclub.ir/admin/addStartups
+3	22	0	0	0	26812408	0	0	26812317	0	0	30168	https://negaclub.ir/admin/Banks
+3	0	0	0	1	0	0	26812027	0	0	26812027	0	https://negaclub.ir/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/customers
+3	2	0	0	0	26825087	0	0	26825087	0	0	3650	https://negaclub.ir/admin/addSupervisions
+3	34	0	0	0	26812190	0	0	26812074	0	0	215319	https://negaclub.ir/admin/login
+3	2	0	0	0	26812325	0	0	26812323	0	0	1551	https://negaclub.ir/admin/addJobs
+3	35	0	0	0	26812200	0	0	26812120	0	0	235668	https://negaclub.ir/admin/addStates
+3	1	0	0	0	26812423	0	0	26812423	0	0	1379	https://negaclub.ir/admin/addIndividuals
+3	1	0	0	0	26812322	0	0	26812322	0	0	11649	https://negaclub.ir/admin/addCastes
+3	207	0	0	0	26822085	0	0	26696715	0	0	11422812	https://negaclub.ir/admin/src/plugins/font-awesome/css/font-awesome.min.css
+3	2	2	0	0	26803284	0	0	26711688	0	0	859	https://trustseal.enamad.ir/
+3	1	0	0	0	26812325	0	0	26812325	0	0	1300	https://negaclub.ir/admin/addBankCards
+3	123	0	0	0	26812325	0	0	26812208	0	0	1044091	https://negaclub.ir/admin/Cities
+3	32	0	0	0	26812366	0	0	26812325	0	0	172659	https://negaclub.ir/admin/BankCards
+3	54	0	0	0	26825086	0	0	26812076	0	0	415819	https://negaclub.ir/admin/index
+3	29	0	0	0	26696721	0	0	26696715	0	0	168966	https://negaclub.ir/admin/editStartups
+3	93	0	0	0	26812116	0	0	26812111	0	0	885595	https://negaclub.ir/admin/states
+4	109	1	1	0	26754501	26751859	0	26751859	26751859	0	34213	PostmanRuntime/7.26.7
+4	0	0	0	6	0	0	26734849	0	0	26706011	0	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+4	2	2	0	0	26681361	0	0	26681361	0	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+4	1	1	0	0	26725784	0	0	26725784	0	0	0	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+4	4	4	0	0	26790206	0	0	26790111	0	0	42826	Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+4	1	1	0	0	26706240	0	0	26706240	0	0	525	curl/7.68.0
+4	187	0	0	0	26696874	0	0	26696715	0	0	933760	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+4	1	1	0	0	26681301	0	0	26681301	0	0	460	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/537.36
+4	5	1	60	5	26812028	26812028	26812032	26812028	26812027	26812027	3906	Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36
+4	321	21	1	0	26825096	26822057	0	26822057	26822057	0	3357380	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+4	2596	12	61	9	26812424	26812188	26812059	26803284	26812027	26811917	37463961	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+4	2	2	0	0	26712108	0	0	26712016	0	0	1050	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+4	8	8	0	0	26829570	0	0	26715646	0	0	117044	Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+4	1	1	0	0	26725784	0	0	26725784	0	0	0	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+4	0	0	0	2	0	0	26827506	0	0	26824254	0	Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	1	1	0	0	26697256	0	0	26697256	0	0	425	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+4	3	3	0	0	26726829	0	0	26725806	0	0	1572	Python/3.6 aiohttp/3.6.3
+4	2	2	0	1	26770531	0	26696893	26682639	0	26696893	2576	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+4	0	0	0	1	0	0	26724483	0	0	26724483	0	Go-http-client/1.1
+4	4	1	0	0	26711688	0	0	26711688	0	0	2872	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+4	2	1	0	3	26827521	0	26827508	26824254	0	26827506	7061	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	3	1	0	1	26773563	0	26773542	26773542	0	26773542	4795	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+4	5	5	0	0	26714806	0	0	26687096	0	0	6151	Mozilla/5.0 (Windows N\\T 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+4	5	5	0	0	26825012	0	0	26787601	0	0	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+4	1	0	0	0	26824756	0	0	26824756	0	0	5050	Googlebot-Image/1.0
+5	0	0	0	1	0	0	26827507	0	0	26827507	0	66.249.64.107
+5	1	1	0	0	26725784	0	0	26725784	0	0	0	142.93.158.49
+5	3	3	0	0	26726829	0	0	26725806	0	0	1572	62.102.134.135
+5	1	1	0	0	26816718	0	0	26816718	0	0	36385	209.17.96.162
+5	1	1	0	0	26681361	0	0	26681361	0	0	0	138.197.148.89
+5	1	1	0	0	26697256	0	0	26697256	0	0	425	5.235.178.108
+5	1	1	0	0	26776360	0	0	26776360	0	0	1581	209.17.97.122
+5	1	0	0	1	26681119	0	26681119	26681119	0	26681119	0	212.16.67.6
+5	3	1	0	1	26773563	0	26773542	26773542	0	26773542	4795	5.238.147.215
+5	1	1	0	0	26681301	0	0	26681301	0	0	460	45.63.68.132
+5	1	1	0	0	26715646	0	0	26715646	0	0	1577	209.17.96.154
+5	1	1	0	0	26682639	0	0	26682639	0	0	999	62.4.14.198
+5	0	0	0	1	0	0	26724483	0	0	26724483	0	139.28.36.20
+5	1	1	0	0	26724167	0	0	26724167	0	0	1577	209.17.97.114
+5	1	1	0	0	26790111	0	0	26790111	0	0	38086	167.71.100.153
+5	4	1	0	0	26803284	0	0	26803284	0	0	2881	5.238.32.69
+5	1	1	0	0	26712016	0	0	26712016	0	0	525	192.40.57.232
+5	0	0	0	4	0	0	26734849	0	0	26731002	0	192.95.30.65
+5	22	0	0	0	26825096	0	0	26825086	0	0	35466	5.237.187.148
+5	1	1	0	0	26790145	0	0	26790145	0	0	1582	157.245.215.240
+5	2597	12	121	14	26812424	26812188	26812059	26811917	26812027	26811917	37464986	5.237.115.106
+5	187	0	0	0	26696874	0	0	26696715	0	0	933760	5.237.118.12
+5	109	1	1	0	26754501	26751859	0	26751859	26751859	0	34213	5.237.77.33
+5	1	1	0	0	26790206	0	0	26790206	0	0	1581	104.236.0.4
+5	5	5	0	0	26714806	0	0	26687096	0	0	6151	69.25.58.53
+5	0	0	0	1	0	0	26696893	0	0	26696893	0	62.210.5.253
+5	0	0	0	2	0	0	26706012	0	0	26706011	0	192.99.8.102
+5	1	1	0	0	26727246	0	0	26727246	0	0	1577	209.17.96.194
+5	5	5	0	0	26825012	0	0	26787601	0	0	0	138.246.253.24
+5	1	1	0	0	26829570	0	0	26829570	0	0	36385	209.17.96.122
+5	2	1	0	0	26824756	0	0	26824254	0	0	12094	66.249.66.205
+5	1	1	0	0	26790155	0	0	26790155	0	0	1577	167.71.91.238
+5	1	1	0	0	26712108	0	0	26712108	0	0	525	46.166.142.222
+5	0	0	0	1	0	0	26824254	0	0	26824254	0	66.249.66.203
+5	4	1	0	0	26711688	0	0	26711688	0	0	2872	5.232.83.5
+5	1	1	0	0	26706240	0	0	26706240	0	0	525	37.59.54.36
+5	1	1	0	0	26770531	0	0	26770531	0	0	1577	51.15.191.81
+5	1	1	0	0	26821720	0	0	26821720	0	0	36385	209.17.97.18
+5	299	21	1	0	26822103	26822057	0	26822057	26822057	0	3321914	5.237.123.112
+5	1	1	0	0	26731865	0	0	26731865	0	0	1577	209.17.96.178
+5	1	1	0	0	26681361	0	0	26681361	0	0	0	159.203.56.92
+5	1	1	0	0	26725784	0	0	26725784	0	0	0	165.227.46.43
+5	1	0	0	3	26827521	0	26827508	26827521	0	26827506	17	66.249.64.109
+z	0	372	9	26825012	0
+z	1	6	0	26812286	34
+z	2	83	1	26827521	5543
+z	3	871	41	26825096	354796
+z	4	1154	19	26825095	4242240
+z	5	710	4	26829570	25960202
+z	6	69	0	26822085	11422812
+c	200	3264	26829570
+c	301	101	26822057
+c	302	22	26812188
+c	304	1	26773563
+c	403	2	26811936
+c	404	25	26827508
+c	500	2	26812032

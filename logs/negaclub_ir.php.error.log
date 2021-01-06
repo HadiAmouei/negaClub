@@ -1,0 +1,79 @@
+[10-Nov-2020 09:09:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function getName() on string in /home/negaclub/public_html/admin/src/index.php:12
+Stack trace:
+#0 /home/negaclub/public_html/admin/main.php(160): include()
+#1 [internal function]: {closure}()
+#2 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(158): call_user_func_array(Object(Closure), Array)
+#3 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(120): FwRoutingSystem\Router\RouterCommand->runMethodWithParams(Object(Closure), Array)
+#4 /home/negaclub/public_html/admin/src/dist/php/Router.php(852): FwRoutingSystem\Router\RouterCommand->runRoute(Object(Closure), Array)
+#5 /home/negaclub/public_html/admin/src/dist/php/Router.php(442): FwRoutingSystem\Router->runRouteCommand(Object(Closure), Array)
+#6 [internal function]: FwRoutingSystem\Router->__destruct()
+#7 {main}
+  thrown in /home/negaclub/public_html/admin/src/index.php on line 12
+[10-Nov-2020 10:08:30 Asia/Tehran] PHP Warning:  include(pages/404.php): failed to open stream: No such file or directory in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:08:30 Asia/Tehran] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:37:12 Asia/Tehran] PHP Warning:  include(pages/404.php): failed to open stream: No such file or directory in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:37:12 Asia/Tehran] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:37:53 Asia/Tehran] PHP Warning:  include(pages/404.php): failed to open stream: No such file or directory in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:37:53 Asia/Tehran] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:41:18 Asia/Tehran] PHP Warning:  include(pages/404.php): failed to open stream: No such file or directory in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:41:18 Asia/Tehran] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:41:56 Asia/Tehran] PHP Warning:  include(pages/404.php): failed to open stream: No such file or directory in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:41:56 Asia/Tehran] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:58:42 Asia/Tehran] PHP Warning:  include(pages/404.php): failed to open stream: No such file or directory in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:58:42 Asia/Tehran] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:58:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/negaclub/public_html/admin/src/dist/php/DataBase/Database.php:338
+Stack trace:
+#0 /home/negaclub/public_html/admin/src/models/BaseTable/Individuals/Individuals.php(28): DATABASE\methods->execute('object')
+#1 /home/negaclub/public_html/admin/src/controllers/BaseTable/Clients/Clients.php(88): model\Individuals->getWithId('4')
+#2 /home/negaclub/public_html/admin/src/dist/php/Controllers/Controller.php(168): controller\Clients->userInfo()
+#3 /home/negaclub/public_html/admin/main.php(75): Controller->do()
+#4 [internal function]: {closure}()
+#5 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(158): call_user_func_array(Object(Closure), Array)
+#6 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(120): FwRoutingSystem\Router\RouterCommand->runMethodWithParams(Object(Closure), Array)
+#7 /home/negaclub/public_html/admin/src/dist/php/Router.php(852): FwRoutingSystem\Router\RouterCommand->runRoute(Object(Cl in /home/negaclub/public_html/admin/src/dist/php/DataBase/Database.php on line 338
+[10-Nov-2020 10:59:34 Asia/Tehran] PHP Warning:  include(pages/404.php): failed to open stream: No such file or directory in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:59:34 Asia/Tehran] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 10:59:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/negaclub/public_html/admin/src/dist/php/DataBase/Database.php:338
+Stack trace:
+#0 /home/negaclub/public_html/admin/src/models/BaseTable/Individuals/Individuals.php(28): DATABASE\methods->execute('object')
+#1 /home/negaclub/public_html/admin/src/controllers/BaseTable/Clients/Clients.php(88): model\Individuals->getWithId('2')
+#2 /home/negaclub/public_html/admin/src/dist/php/Controllers/Controller.php(168): controller\Clients->userInfo()
+#3 /home/negaclub/public_html/admin/main.php(75): Controller->do()
+#4 [internal function]: {closure}()
+#5 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(158): call_user_func_array(Object(Closure), Array)
+#6 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(120): FwRoutingSystem\Router\RouterCommand->runMethodWithParams(Object(Closure), Array)
+#7 /home/negaclub/public_html/admin/src/dist/php/Router.php(852): FwRoutingSystem\Router\RouterCommand->runRoute(Object(Cl in /home/negaclub/public_html/admin/src/dist/php/DataBase/Database.php on line 338
+[10-Nov-2020 11:02:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/negaclub/public_html/admin/src/dist/php/DataBase/Database.php:338
+Stack trace:
+#0 /home/negaclub/public_html/admin/src/models/BaseTable/Individuals/Individuals.php(28): DATABASE\methods->execute('object')
+#1 /home/negaclub/public_html/admin/src/controllers/BaseTable/Clients/Clients.php(88): model\Individuals->getWithId('3')
+#2 /home/negaclub/public_html/admin/src/dist/php/Controllers/Controller.php(168): controller\Clients->userInfo()
+#3 /home/negaclub/public_html/admin/main.php(75): Controller->do()
+#4 [internal function]: {closure}()
+#5 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(158): call_user_func_array(Object(Closure), Array)
+#6 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(120): FwRoutingSystem\Router\RouterCommand->runMethodWithParams(Object(Closure), Array)
+#7 /home/negaclub/public_html/admin/src/dist/php/Router.php(852): FwRoutingSystem\Router\RouterCommand->runRoute(Object(Cl in /home/negaclub/public_html/admin/src/dist/php/DataBase/Database.php on line 338
+[10-Nov-2020 11:02:53 Asia/Tehran] PHP Warning:  include(pages/404.php): failed to open stream: No such file or directory in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 11:02:53 Asia/Tehran] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 11:03:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/negaclub/public_html/admin/src/dist/php/DataBase/Database.php:338
+Stack trace:
+#0 /home/negaclub/public_html/admin/src/models/BaseTable/Individuals/Individuals.php(28): DATABASE\methods->execute('object')
+#1 /home/negaclub/public_html/admin/src/controllers/BaseTable/Clients/Clients.php(88): model\Individuals->getWithId('3')
+#2 /home/negaclub/public_html/admin/src/dist/php/Controllers/Controller.php(168): controller\Clients->userInfo()
+#3 /home/negaclub/public_html/admin/main.php(75): Controller->do()
+#4 [internal function]: {closure}()
+#5 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(158): call_user_func_array(Object(Closure), Array)
+#6 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(120): FwRoutingSystem\Router\RouterCommand->runMethodWithParams(Object(Closure), Array)
+#7 /home/negaclub/public_html/admin/src/dist/php/Router.php(852): FwRoutingSystem\Router\RouterCommand->runRoute(Object(Cl in /home/negaclub/public_html/admin/src/dist/php/DataBase/Database.php on line 338
+[10-Nov-2020 11:06:29 Asia/Tehran] PHP Warning:  include(pages/404.php): failed to open stream: No such file or directory in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 11:06:29 Asia/Tehran] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/negaclub/public_html/admin/main.php on line 170
+[10-Nov-2020 11:07:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetchObject() on boolean in /home/negaclub/public_html/admin/src/models/BaseTable/Individuals/Individuals.php:26
+Stack trace:
+#0 /home/negaclub/public_html/admin/src/controllers/BaseTable/Clients/Clients.php(88): model\Individuals->getWithId('3')
+#1 /home/negaclub/public_html/admin/src/dist/php/Controllers/Controller.php(168): controller\Clients->userInfo()
+#2 /home/negaclub/public_html/admin/main.php(75): Controller->do()
+#3 [internal function]: {closure}()
+#4 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(158): call_user_func_array(Object(Closure), Array)
+#5 /home/negaclub/public_html/admin/src/dist/php/Router/RouterCommand.php(120): FwRoutingSystem\Router\RouterCommand->runMethodWithParams(Object(Closure), Array)
+#6 /home/negaclub/public_html/admin/src/dist/php/Router.php(852): FwRoutingSystem\Router\RouterCommand->runRoute(Object(Closure), Array)
+#7 /home/negaclub/public_html/admin/src/dist/php/Router.php(442): FwRoutingSystem\Router->runRo in /home/negaclub/public_html/admin/src/models/BaseTable/Individuals/Individuals.php on line 26

@@ -1,0 +1,2 @@
+[23-Feb-2020 11:10:27 UTC] PHP Warning:  require_once(layers/preloader.html): failed to open stream: No such file or directory in /home/parsa/public_html/framework/index.php on line 9
+[23-Feb-2020 11:10:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'layers/preloader.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/parsa/public_html/framework/index.php on line 9

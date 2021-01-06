@@ -1,0 +1,1 @@
+$("#bank_account_bank_number").checkCardNumber()

@@ -1,0 +1,286 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202012 will be lost/reset.
+# Last config file used to build this data file was /home/negaclub/tmp/awstats/awstats.bavers.negaclub.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2697                
+POS_VISITOR 6223                
+POS_DAY 6807                
+POS_DOMAIN 3214                
+POS_LOGIN 3480                
+POS_ROBOT 3635                
+POS_WORMS 3767                
+POS_EMAILSENDER 3898                
+POS_EMAILRECEIVER 4041                
+POS_SESSION 6932                
+POS_SIDER 7089                
+POS_FILETYPES 4176                
+POS_DOWNLOADS 4396                
+POS_OS 4444                
+POS_BROWSER 4556                
+POS_SCREENSIZE 4733                
+POS_UNKNOWNREFERER 4807                
+POS_UNKNOWNREFERERBROWSER 5035                
+POS_ORIGIN 5155                
+POS_SEREFERRALS 5289                
+POS_PAGEREFS 5433                
+POS_SEARCHWORDS 5581                
+POS_KEYWORDS 5733                
+POS_MISC 2361                
+POS_ERRORS 5792                
+POS_CLUSTER 3336                
+POS_SIDER_404 5898                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201229153702 108 28810 14431432270096
+FirstTime 20201227160803
+LastTime 20201229153702
+LastUpdate 20201229154928 108 0 108 0 0
+TotalVisits 15                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 2 2 175806 21 22 1237
+15 16 40 645898 43 44 0
+16 29 54 599360 1 3 1943
+17 1 2 24294 21 21 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 1 3 1729 0 0 0
+23 1 1 444 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ir 35 83 1440810
+us 10 12 2846
+fr 4 4 2146
+sg 1 3 1729
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+js 28 141966 0 0
+Unknown 16 2216 0 0
+css 12 96794 0 0
+map 4 63736 0 0
+png 12 135455 0 0
+woff2 12 444080 0 0
+html 13 66640 0 0
+woff 2 0 0 0
+ttf 3 496644 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+win10 3 1
+macosx 84 36
+Unknown 10 10
+linux 5 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome80.0.3987.149 1 1
+chrome87.0.4280.88 83 35
+mozilla 8 8
+firefox58.0 2 2
+chrome76.0.3809.71 3 1
+Unknown 2 2
+safari10.0 3 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20201227160807
+Cpanel-HTTP-Client/1.0 20201227160803
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20201227160803
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 26 26
+From1 0 0
+From2 0 0
+From3 0 0
+From4 24 76
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 1 706
+404 2 2474
+302 85 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/robots.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+5.238.63.74 18 42 620117 20201227172137
+5.237.123.112 17 41 820693 20201229153702 20201229153647 /
+64.78.149.164 2 2 174 20201227160807
+213.108.240.92 2 2 128 20201227160803
+18.196.96.172 2 2 174 20201227160806
+34.209.232.166 2 2 174 20201227160807
+195.154.61.206 1 1 1007 20201228160140
+137.132.219.139 1 3 1729 20201227224641
+54.221.27.173 1 1 444 20201227234927
+3.22.70.135 1 1 87 20201227160807
+212.83.146.233 1 1 1011 20201228153951
+3.128.26.105 1 1 87 20201227160807
+65.155.30.101 1 3 1706 20201227161115
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20201227 31 59 624820 11
+20201228 2 2 2018 2
+20201229 17 41 820693 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 13
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/admin/ 7 62869 4 2
+/ 6 3771 5 5
+/.well-known/acme-challenge/U8oY2uQUWt3LVItzHj4eT94LyfNIzPw-p83cfZGrZTc 4 348 3 2
+/.well-known/acme-challenge/JMfkTsNnqVolvaP1xELnRtQ3hZZk4EStFYj8RXJpkcg 4 348 2 3
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.ttf 3 496644 0 1
+/admin/src/dist/css/persian-datepicker.min.css.map 2 464 0 0
+/admin/src/dist/fonts/Vazir-Bold.woff2 2 83712 0 0
+/admin/src/dist/fonts/Vazir-Medium.woff2 2 102512 0 0
+/admin/src/dist/fonts/Vazir-Light.woff2 2 97232 0 0
+/admin/src/dist/fonts/Vazir.woff2 2 76008 0 0
+/admin/controller/Levels 2 464 0 0
+/admin/src/dist/js/adminlte.js.map 2 63272 0 0
+/admin/controller/Individuals 2 464 0 0
+/admin/src/dist/fonts/Vazir-Black.woff2 2 84616 0 0
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff2 2 0 0 0
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff 2 0 0 0
+/.well-known/acme-challenge/U698HV4CXW68KMQZFP6V4FXSYPDV79SW 1 64 1 0
+/admin/controller/Customers 1 232 0 0
+/.well-known/acme-challenge/2R1YK59-EL86N8XK3UV8TTRRK66TZD8B 1 64 0 1
+/admin/controller/CustomerAddresses 1 232 0 0
+END_SIDER

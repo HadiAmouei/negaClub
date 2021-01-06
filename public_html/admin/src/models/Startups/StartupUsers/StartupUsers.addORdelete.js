@@ -1,0 +1,2 @@
+$('#token').hide();
+alert('hi');

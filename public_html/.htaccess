@@ -1,0 +1,14 @@
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{THE_REQUEST} \s/([^/]+)/page\.php\?id=([^\s&]+) [NC]
+RewriteRule ^ %1/page/id/%2? [R=302,L,NE]
+
+RewriteRule ^([^/]+)/page/id/([^/.]+)$ $1/page.php?id=$2 [NC,L,QSA]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php72” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php72 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

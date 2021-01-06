@@ -1,0 +1,268 @@
+# Webalizer V2.23-08 Incremental Data - 12/29/2020 15:37:02
+2020 12 29 15 37 2
+192 102 13 44 5 7 1453185 105 10 0
+1 83 83 27 29
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+83 59 628000 10 35 6
+2 2 2018 2 2 2
+107 41 823167 1 68 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+24 2 177043 22
+84 40 647135 47
+57 54 602540 12
+23 2 24294 22
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 3 1729 1
+1 1 444 1
+0
+0
+0
+102
+0
+0
+0
+0
+0
+0
+0
+1
+85
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/admin/src/dist/js/pages/dashboard2.js
+0 2 8530207125138668137 5816 0 0
+/admin/src/dist/fonts/Vazir.woff2
+0 2 0 76008 0 0
+/admin/src/dist/fonts/Vazir-Medium.woff2
+0 2 0 102512 0 0
+/admin/src/dist/js/adminlte.js
+0 2 0 7930 0 0
+/admin/src/dist/js/demo.js
+0 2 0 3614 0 0
+/admin/src/dist/js/check.js
+0 2 0 11568 0 0
+/admin/src/dist/css/adminlte.min.css
+0 2 0 71024 0 0
+/admin/src/plugins/font-awesome/css/font-awesome.min.css
+0 2 0 14110 0 0
+/admin/controller/CustomerAddresses
+0 1 0 232 0 0
+/admin/controller/Individuals
+0 2 0 464 0 0
+/admin/src/dist/fonts/Vazir-Bold.woff2
+0 2 0 83712 0 0
+/admin/src/dist/css/custom-style.css
+0 2 0 5298 0 0
+/admin/src/dist/js/Shortcuts/Shortcuts.js
+0 2 0 330 0 0
+/.well-known/acme-challenge/JMfkTsNnqVolvaP1xELnRtQ3hZZk4EStFYj8RXJpkcg
+0 4 0 348 0 0
+/admin/
+0 7 0 62869 3 2
+/admin/src/dist/js/persian-date.min.js
+0 2 0 20356 0 0
+/admin/src/dist/js/persian-datepicker.min.js
+0 2 0 31178 0 0
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.ttf
+0 3 0 496644 0 0
+/.well-known/acme-challenge/U698HV4CXW68KMQZFP6V4FXSYPDV79SW
+0 1 0 64 0 0
+/_autoindex/icons/blank.png
+0 3 0 513 0 0
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+0 2 0 0 0 0
+/admin/src/dist/js/fw_js.js
+0 2 0 4992 0 0
+/admin/src/dist/css/persian-datepicker.min.css
+0 2 0 3808 0 0
+/admin/src/dist/fonts/Vazir-Light.woff2
+0 2 0 97232 0 0
+/admin/src/plugins/font-awesome/fonts/fontawesome-webfont.woff
+0 2 0 0 0 0
+/admin/src/dist/js/submit.js
+0 2 0 2752 0 0
+/admin/controller/Customers
+0 1 0 232 0 0
+/.well-known/acme-challenge/U8oY2uQUWt3LVItzHj4eT94LyfNIzPw-p83cfZGrZTc
+0 4 0 348 0 0
+/.well-known/acme-challenge/2R1YK59-EL86N8XK3UV8TTRRK66TZD8B
+0 1 0 64 0 0
+/
+0 6 0 3771 5 0
+/admin/src/dist/js/moment/moment.min.js
+0 2 0 47830 0 0
+/admin/src/dist/js/adminlte.js.map
+0 2 10832832 63272 0 0
+/admin/src/dist/css/bootstrap-rtl.min.css
+0 2 0 2272 0 0
+/admin/src/dist/js/fw_tags/src/funcs.js
+0 2 0 428 0 0
+/admin/src/dist/css/persian-datepicker.min.css.map
+0 2 10832960 464 0 0
+/admin/src/dist/js/fw_tags/fw_tags.js
+0 2 0 852 0 0
+/admin/src/dist/css/spinner.css
+0 2 0 282 0 0
+/admin/src/dist/js/tables.js
+0 2 0 2524 0 0
+/admin/favicon.png
+0 4 0 55912 0 0
+/admin/src/dist/js/autocomplete.js
+0 2 0 1796 0 0
+/_autoindex/icons/folder.png
+0 3 0 3342 0 0
+/admin/src/dist/images/CompanyLogo.png
+0 2 0 75688 0 0
+/admin/controller/Levels
+0 2 0 464 0 0
+/admin/src/dist/fonts/Vazir-Black.woff2
+0 2 0 84616 0 0
+# End Of Table - urls
+# -sites- (monthly)
+5.237.123.112
+0 107 41 823167 2 1609256222
+/
+5.238.63.74
+0 66 42 623297 3 1609089697
+/admin/
+ec2-3-128-26-105.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+macgregor.probe.onyphe.net
+0 1 1 1007 1 1609171300
+/
+ec2-54-221-27-173.compute-1.amazonaws.com
+0 1 1 444 1 1609112967
+/
+monika.probe.onyphe.net
+0 1 1 1011 1 1609169991
+/
+137.132.219.139
+0 3 3 1729 1 1609109201
+/
+ec2-18-196-96-172.eu-central-1.compute.amazonaws.com
+0 2 2 174 0 0
+-
+linux2.negarine.com
+0 2 2 128 0 0
+-
+ec2-3-22-70-135.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+outbound2.letsencrypt.org
+0 2 2 174 0 0
+-
+65.155.30.101
+0 3 3 1706 1 1609085475
+/
+ec2-34-209-232-166.us-west-2.compute.amazonaws.com
+0 2 2 174 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+5.237.123.112
+0 107 41 823167 2 1609256222
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://bavers.negaclub.ir/admin/src/plugins/font-awesome/css/font-awesome.min.css
+0 7
+http://bavers.negaclub.ir/
+0 7
+- (Direct Request)
+0 29
+http://bavers.negaclub.ir/admin/
+0 139
+http://bavers.negaclub.ir/admin/src/dist/css/custom-style.css
+0 10
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 173
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/602.1 (KHTML, like Gecko) splash Version/10.0 Safari/602.1
+0 3
+Cpanel-HTTP-Client/1.0
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
