@@ -6,10 +6,11 @@ use DOMWrap\Document;
 use FwHtml\Elements\Tags\Main\HtmlTags;
 use View;
 
-class Banks extends View
+class Individuals extends View
 {
 
-    public $SingularName = 'بانک';
+    public $SingularName = 'شخص حقیقی';
+    public $PluralName = 'اشخاص حقیقی';
 
     public function main(Document &$document)
     {
@@ -33,15 +34,22 @@ class Banks extends View
                                                             ->Content(
                                                                 HtmlTags::Tr()->Content(
                                                                     HtmlTags::Th('ردیف')->Width('50'),
-                                                                    HtmlTags::Th('نام بانک'),
-                                                                    HtmlTags::Th('لوگو'),
+                                                                    HtmlTags::Th('نام'),
+                                                                    HtmlTags::Th('نام خانوادگی'),
+                                                                    HtmlTags::Th('جنسیت'),
+                                                                    HtmlTags::Th('موبایل'),
+
                                                                     HtmlTags::Th('.no-sort عملیات')->Width('150')
-//                                                                    HtmlTags::Th('.no-sort وضعیت')->Width('150')
                                                                 )
                                                             ),
                                                         HtmlTags::Tbody()
                                                             ->Content(
-                                                                $this->show(['bank_name','showImage'=>'bank_logo'],false,true)
+                                                                $this->show(['individual_first_name',
+                                                                    'individual_last_name',
+                                                                    'individual_gender' => function ($gender) {
+                                                                        return $gender == 1 ? "اقا" : "خانم";
+                                                                    },
+                                                                    'individual_mobile'], false)
                                                             )
                                                     )
                                             )
@@ -51,7 +59,10 @@ class Banks extends View
                 );
     }
 
-
+    public function add(Document &$document)
+    {
+        $document->html = $this->Form();
+    }
 
     public function Form()
     {
@@ -67,18 +78,9 @@ class Banks extends View
                                                 $this->Html()->CardTitle(),
                                                 $this->Html()->refreshAndBack()
                                             ),
+
                                         $this->Html()->FormStart() .
-
-                                        $this->Html()->FormGroupStart(4) .
-                                        $this->Html()->Label('نام بانک') .
-                                        $this->Html()->Input('bank_name') .
-                                        $this->Html()->FormGroupEnd() .
-
-                                        $this->Html()->FormGroupStart(4) .
-                                        $this->Html()->Label('لوگو') .
-                                        $this->Html()->ImageInput('bank_logo', 'image/jpeg', 150, 300, 'false', 'bank_name', false) .
-                                        $this->Html()->FormGroupEnd() .
-
+                                        $this->quickAddForm() .
                                         $this->Html()->CardFooter()
                                     )
                             )
@@ -86,9 +88,31 @@ class Banks extends View
                 );
     }
 
-    public function add(Document &$document)
+    public function quickAddForm()
     {
-        $document->html = $this->Form();
+        return HtmlTags::Div('.w-100.d-flex.flex-wrap')->Content(
+
+            $this->Html()->FormGroupStart(6) .
+            $this->Html()->Label('نام') .
+            $this->Html()->Input('individual_first_name') .
+            $this->Html()->FormGroupEnd() .
+            $this->Html()->FormGroupStart(6) .
+            $this->Html()->Label('نام خانوادگی ') .
+            $this->Html()->Input('individual_last_name') .
+            $this->Html()->FormGroupEnd() .
+            $this->Html()->FormGroupStart(6) .
+            $this->Html()->Label('جنسیت') .
+            $this->Html()->Input('individual_gender') .
+            $this->Html()->FormGroupEnd() .
+            $this->Html()->FormGroupStart(6) .
+            $this->Html()->Label('موبایل') .
+            $this->Html()->UniqueMobile('individual_mobile', 'individual_mobile') .
+            $this->Html()->FormGroupEnd() .
+            $this->Html()->FormGroupStart(6) .
+            $this->Html()->Label('ملیت') .
+            $this->Html()->Select('country_id', 'country_id', \model\Countries::toOption()) .
+            $this->Html()->FormGroupEnd()
+        );
     }
 
     public function edit(Document &$document)

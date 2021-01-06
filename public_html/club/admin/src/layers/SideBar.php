@@ -23,7 +23,16 @@ $SideBar->Item('اطلاعات پایه ای', Fa::Cogs())->_items([
     MenuItem::create('بانک ', Fa::Credit_card_alt())->LinksTo(\controller\Banks::class),
     MenuItem::create('پیش شماره کارت بانکی', Fa::Credit_card())->LinksTo(\controller\BankCards::class),
     MenuItem::create('شبکه های اجتماعی', Fa::Telegram())->LinksTo(\controller\SocialMedias::class),
-    MenuItem::create('درجه ها', Fa::Tachometer())->LinksTo(\controller\Degrees::class),
+
+]);
+$SideBar->Item('اشخاص', Fa::Cogs())->_items([
+    MenuItem::create('مدیریت اشخاص حقیقی', Fa::Users())->LinksTo(\controller\Individuals::class),
+    MenuItem::create('سطوح عضویت', Fa::Users())->LinksTo(\controller\Levels::class),
+    MenuItem::create('مدیریت مشتریان', Fa::Users())->LinksTo(\controller\Customers::class),
+    MenuItem::create('مدیریت آدرس مشتریان', Fa::Users())->LinksTo(\controller\CustomerAddresses::class),
+    MenuItem::create('مدیریت پذیرندگان', Fa::Users())->LinksTo(\controller\Providers::class),
+    MenuItem::create('مدیریت شعب پذیرندگان', Fa::Users())->LinksTo(\controller\ProviderBranches::class),
+
 
 ]);
 $SideBar->Item('Tools', Fa::Wrench())->_items([
